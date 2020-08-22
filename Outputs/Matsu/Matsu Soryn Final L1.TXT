@@ -1,0 +1,61 @@
+﻿[b]Matsu Soryn[/b]
+Male lashunta (korasha) mercenary soldier 1
+LN Medium humanoid (lashunta)
+[b]Init[/b] +3; [b]Senses[/b] Perception -1
+
+_________________________________________________
+DEFENSE
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+[b]EAC[/b] 14; [b]KAC[/b] 15
+[b]SP[/b] 8 [b]HP[/b] 11 [b]RP[/b] 4
+[b]Fort[/b] +3, [b]Ref[/b] +3, [b]Will[/b] +1
+
+_________________________________________________
+OFFENSE
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+[b]Speed[/b] Walk 20'
+[b]Melee[/b] baton, tactical +4 (1d4+1 , critical -; Analog.operative)
+[b]Ranged[/b] reaction cannon, light +4 (1d10, critical -; Penetrating)
+[b]Ranged[/b] laser pistol, azimuth +4 (1d4, critical Burn 1d4; -)
+[b]Ranged[/b] frag grenade i +2 (1d6, critical ; DC 13, Explode (1d6 P, 15 ft.))
+[b]Ranged[/b] holy water grenade i +2 (, critical ; Explode (2d6 B, holy water, 20 ft.))
+[b]Ranged[/b] shock grenade i +2 (1d8, critical ; DC 13, Explode (1d8 E, 15 ft.))
+[b]Ranged[/b] artillery laser, azimuth +4 (1d10, critical Burn 1d6; Penetrating)
+[b]Ranged[/b] ice carbine, subzero +4 (1d8, critical -; Automatic)
+
+
+_________________________________________________
+STATISTICS
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+[b]Str[/b] 13, [b]Dex[/b] 16, [b]Con[/b] 12, [b]Int[/b] 12, [b]Wis[/b] 8, [b]Cha[/b] 12,
+[b]Base Atk[/b] +1; [b]Grp[/b]+2
+[b]Feats[/b] Quick Draw
+[b]Skills[/b] Engineering +5, Intimidate +5, Medicine +5, Piloting +7, Survival +5, 
+[b]Languages[/b] Castrovelian, Common, Eoxian
+[B]Combat Gear[/B] 
+[B]Other Gear[/B] reaction cannon, light, second skin, cred stick (2), laser pistol, azimuth, baton, tactical, frag grenade i, holy water grenade i (2), shock grenade i, artillery laser, azimuth, ice carbine, subzero, 441.0 gp
+
+_________________________________________________
+SPECIAL ABILITIES
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+[b]RACIALTRAITS[/b]
+[b]Size And Type[/b] Lashuntas are medium humanoids with the lashunta subtype
+[b]Dimorphic[/b] All lashuntas gain +2 charisma at character creation. Korasha lashuntas are muscular (+2 strength at character creation) but often brash and unobservant (-2 wisdom at character creation). Damaya lashuntas are typically clever and well-spoken (+2 intelligence at character creation) but somewhat delicate (-2 constitution at character creation)
+[b]Lashunta Magic[/b] [not implemented]lashuntas gain the following spell-like abilities: at will: daze, psychokinetic hand 1/day: detect thoughts see spell-like abilities on page 262. The caster level for these effects is equal to the lashunta's level
+[b]Limited Telepathy[/b] Lashuntas can mentally communicate with any creatures within 30 feet with whom they share a language. Conversing telepathically with multiple creatures simultaneously is just as difficult as listening to multiple people speaking
+[b]Student[/b] Lashuntas love to learn, and they receive a +2 racial bonus to any two skills of their choice
+
+[b]THEME BENEFITS[/b]
+[b]Mercenary[/b] Whether you take jobs that match your ethical beliefs or you fight for anyone who can afford your services, you are a hired gun. You might take pride in your past accomplishments, proudly displaying trophies of your kills, or you might be laden with guilt over being the sole survivor of a mission gone terribly wrong. You most likely work with other mercenaries and are familiar with the methodologies of military actions all across the galaxy
+[b]Theme Knowledge[/b] You are knowledgeable about the military, from rival mercenary groups to standard military procedures to planetary armed forces, and you can draw upon this fount of information to aid your adventurous pursuits. Reduce the dc of culture checks and profession (mercenary) checks to recall knowledge about hierarchies, practices, personnel, and so on in the military by 5. Athletics is a class skill for you, though if it is a class skill from the class you take at 1st level, you instead gain a +1 bonus to athletics checks. In addition, you gain an ability adjustment of +1 to strength at character creation
+
+[b]CLASS FEATURES:[/b]
+[b]Primary Fighting Style[/b] You have a preferred fighting style that represents the type of soldier you are. Each fighting style is composed of various style techniques that you learn as you gain experience. You must pick one fighting style upon taking your first soldier level, and once made, this choice cannot be changed. Descriptions of the fighting styles you can choose from appear on pages 112-115
+[b]Bombard[/b] The bombard fighting style emphasizes attacking multiple targets, often using grenades, and leverages substantial physical strength to control large weapons with significant recoil. At higher levels, you can use launchers, missiles, and other heavy weapons
+[b]Primary Style Technique[/b] At 1st level and every 4 levels thereafter, you gain a style technique unique to your primary fighting style
+[b]Grenade Expert[/b] You increase the range increment of your thrown grenades by 5 x your strength bonus. In addition, you're able to salvage enough materials to create a grenade without paying for it. Creating a grenade takes 10 minutes. You can create any grenade whose item level is less than or equal to your soldier level, but this grenade is unstable and only you can use it effectively. If anyone else tries to use the grenade, it is a dud. You can have only one grenade created by this ability at one time (if you create a new grenade using this ability, the old grenade no longer works)
+
+[b]FEATS:[/b]
+[b]Quick Draw[/b] You can draw weapons faster than most You can draw a weapon as a swift action. Additionally, when making an attack using a thrown weapon as an attack or full attack action, you can draw a weapon as part of the action of making a thrown attack with it. You can draw a hidden weapon (see sleight of hand on page 146) as a move action.
+Normal: you can draw a weapon as a move action, or (if your base attack bonus is +1 or higher) as part of a move action, and you can draw a hidden weapon as a standard action
+
