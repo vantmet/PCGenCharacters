@@ -1,0 +1,33 @@
+﻿﻿[B]Camlo[/B]
+Male Halfling
+Rogue 10
+None Small Humanoid (Halfling)
+[B]Init[/B]: +7, [B]Senses[/B]: [B]Perception[/B]: +14
+[B]Languages[/B]: Common, Dwarven, Elven, Halfling
+=================================================<br>
+DEFENSE<br>
+=================================================<br>
+[B]AC[/B] 23, [B]Touch[/B] 18, [B]Flat-footed[/B] 23, [B]CMD[/B] 31Two-Weapon Defense
+[B]HP[/B] 83 (10HD)
+[B]Fort[/B]: +7, [B]Ref[/B]: +15, [B]Will[/B]: +3
+=================================================<br>
+OFFENSE<br>
+=================================================<br>
+[B]Speed[/B]:  30 ft. (6 Squares)
+Melee Masterwork Dagger (punching/small) +16 (1d3/x3)
+Melee Rapier +1 (small) +17/+12 (1d4+1/18-20)
+Ranged Crossbow +1 (hand/small) +16/+11 (1d3+2/19-20)
+[B]Face[/B]: 5 ft. [B]Reach[/B]: 5 ft. 
+[B]Base Atk[/B]: +7, [B]CMB[/B]: +13 
+=================================================<br>
+STATISTICS<br>
+=================================================<br>
+[B]Abilities[/B]: Str 10, Dex 24, Con 16, Int 15, Wis 8, Cha 16
+[B]Feats[/B]: Agile Maneuvers, Armor Proficiency, Light, Point-Blank Shot, Stealthy, Two-Weapon Defense, Two-Weapon Fighting, Weapon Finesse, Weapon Focus (Rapier)
+[B]Skills[/B]: Acrobatics +22, Acrobatics (Jump) +27, Acrobatics (Jump/Underground) +12, Appraise +2, Bluff +4, Climb +15, Craft (Untrained) +2, Diplomacy +3, Disable Device +25, Disguise +3, Escape Artist +24, Fly +9, Heal -1, Intimidate +3, Knowledge (Dungeoneering) +15, Knowledge (Local) +15, Perception +14, Perception (Trapfinding) +19, Perform (Untrained) +3, Ride +7, Sense Motive +6, Sleight of Hand +20, Stealth +28, Survival -1, 
+[B]Possessions[/B]: <b>Amulet of Natural Armor +1</b>()(), <b>Bracers of Armor +3</b>()(), Masterwork Dagger (Punching/Small)()(), <b>Rapier +1 (Small)</b>()(), <b>Belt of Physical Might (DEX/CON) +4</b>()(), <b>Boots of Striding And Springing</b>()(), Bolts, Crossbow (10)()(), Masterwork Thieves' Tools()(), <b>Potion of Cure Light Wounds</b>(Cures 1d8+1 points of damage)(), <b>Wand of Expeditious Retreat</b>()(), <b>Wand of Feather Fall</b>()(), <b>Wand of Jump</b>()(), <b>Necklace of Fireballs I</b>()(), <b>Crossbow +1 (Hand/Small)</b>()(), 
+=================================================<br>
+SPECIAL ABILITIES<br>
+=================================================<br>
+
+[I]Created using PCGen 6.02.1 on 22-Jul-2014[/I]

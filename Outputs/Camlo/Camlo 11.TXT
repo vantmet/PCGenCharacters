@@ -1,0 +1,82 @@
+﻿[b]Camlo[/b]
+Male Halfling rogue 11
+None Small humanoid (halfling)
+[b]Init[/b] +11, [b]Senses[/b] Perception +15
+=================================================
+DEFENSE
+=================================================
+[b]AC[/b] 23, touch 18, flat-footed 23 (+3 armor, +7 Dex, +1 natural, +1 shield, +1 size ), Two-Weapon Defense
+[b]hp[/b] 92 ((11d8)+39)
+[b]Fort[/b] +7, [b]Ref[/b] +15, [b]Will[/b] +3, +2 vs. fear, +3 Reflex to avoid traps
+[b]Defensive Abilities[/b] evasion, improved uncanny dodge, resiliency (11 hp), trap sense +3, uncanny dodge, 
+=================================================
+OFFENSE
+=================================================
+[b]Speed[/b] 30 ft.
+[b]Melee[/b] masterwork dagger (punching/small) +17 (1d3/x3)
+[b]Melee[/b] rapier +1 (small) +18/+13 (1d4+1/18-20)
+[b]Ranged[/b] crossbow +1 (hand/small) +17/+12 (1d3+1/19-20), within 30 ft. +18/+13 (1d3+2)
+[b]Special Attacks[/b] Bleeding Attack, 
+
+Cutthrote's Apprentice {2/2 times per day} {2/8 rounds}
++8 (1d6) Provides flanking.
+[ooc][list][*]Require a standard action to activate. [*] it can attack in the round of activation [*] gains iterative attacks with it, if the weilder is using the full attack action, otherwise gets a single attack in a round [*] if it provides its wielder with a flanking bonus, it also benefits from a flanking bonus, but does not get additional damage such as sneak attack damage itself (but the wielder can for their own attacks through the flanking benefit if they are a rogue or similar class).[/list][/ooc]
+
+Sneak Attack 6d6+6/round bleeding damage
+[B]Face[/B]: 5 ft. [B]Reach[/B]: 5 ft. 
+
+[b]Base Atk[/b] +8; [b]CMB[/b] +14; [b]CMD[/b] 24
+[b]
+
+=================================================
+STATISTICS
+=================================================
+[b]Str[/b] 10, [b]Dex[/b] 24, [b]Con[/b] 16, [b]Int[/b] 16, [b]Wis[/b] 8, [b]Cha[/b] 14,; Feats[/b] Agile Maneuvers, Improved Initiative, Point-Blank Shot, Stealthy, Two-Weapon Defense, Two-Weapon Fighting, Weapon Finesse, Weapon Focus (Rapier)
+[b]Skills[/b] Acrobatics +23, Climb +16, Disable Device +28, Escape Artist +25, Knowledge (Dungeoneering) +17, Knowledge (Local) +17, Perception +15, Sense Motive +13, Sleight of Hand +21, Stealth +29, Survival +3, Use Magic Device +17, 
+[b]Traits[/b] Dangerously Curious, Fast-Talker, 
+[b]Languages[/b] Common, Dwarven, Elven, Gnome, Halfling
+[b]SQ[/b] fast tumble, fearless, halfling luck, keen senses, sure-footed, trapfinding, weapon familiarity, 
+[B]Combat Gear[/B] [i]Wand of Expeditious Retreat[/i] (50 charges), [i]Wand of Feather Fall[/i] (50 charges), [i]Wand of Jump[/i] (50 charges), [i]potion of cure light wounds[/i] (2), 
+[B]Other Gear[/B] [i]amulet of natural armor +1[/i], [i]bracers of armor +3[/i], masterwork dagger (punching/small), [i]rapier +1 (small)[/i], [i]belt of physical might (dex/con) +4[/i], [i]boots of striding and springing[/i], bolts (crossbow/10), masterwork thieves' tools, coin (copper piece) (11), coin (gold piece) (500), coin (silver piece) (5), [i]necklace of fireballs i[/i], [i]crossbow +1 (hand/small)[/i], 500.67 gp
+=================================================
+SPECIAL ABILITIES
+=================================================
+[b]Bleeding Attack (Ex)[/b] You can cause living opponents to bleed when hitting them with a sneak attack. This attack causes the target to take 6 additional points of damage each round. Bleeding creatures that that amount of damage every round at the start of their turns. The bleeding can be stopped by a DC 15 Heal check or the application of any effect that heals hit point damage. Bleeding damage from this ability does not stack with itself. Bleeding damage bypasses any damage reduction the creature might possess.
+
+[b]Dangerously Curious[/b] You have always been intrigued by magic, possibly because you were the child of a magician or priest. You often snuck into your parent's laboratory or shrine to tinker with spell components and magic devices, and often caused quite a bit of damage and headaches for your parent as a result. You gain a +1 trait bonus on Use Magic Device checks, and Use Magic Device is always a class skill for you.
+
+[b]Evasion (Ex)[/b] You can avoid damage from many area-effect attacks. If you make a successful Reflex saving throw against an attack that normally deals half damage on a successful save, you instead take no damage. Evasion can only be used if you are wearing light armor or no armor. If you are helpless, you do not gain the benefit of evasion.
+
+[b]Evasion[/b] 
+
+[b]Fast-Talker[/b] You had a knack at getting yourself into trouble as a child, and as a result developed a silver tongue at an early age. You gain a +1 trait bonus on Bluff checks, and Bluff is always a class skill for you.
+
+[b]Fast Tumble (Ex)[/b] When a rogue with this talent uses Acrobatics to move at full speed through a threatened square without provoking an attack of opportunity, the DC of the Acrobatics check does not increase by 10.
+
+[b]Fearless (Ex)[/b] Halflings receive a +2 racial bonus on saving throws against fear. This bonus stacks with the bonus granted by Halfling Luck.
+
+[b]Halfling Luck (Ex)[/b] Halflings receive a +1 racial bonus on all saving throws.
+
+[b]Improved Uncanny Dodge (Ex)[/b] You can no longer be flanked. This defense denies a rogue the ability to sneak attack you by flanking you, unless the attacker is a rogue of at least level 15.
+
+[b]Keen Senses (Ex)[/b] Halflings receive a +2 bonus on Perception skill checks.
+
+[b]Resiliency (Ex)[/b] Once per day, you can gain 11 temporary hit points. Activating this ability is an immediate action that can only be performed when you are brought to below 0 hit points. This ability can be used to prevent yourself from dying. These temporary hit points last for 1 minute. If your hit points drop below 0 due to the loss of these temporary hit points, you fall unconscious and are dying as normal.
+
+[b]Sneak Attack (Ex)[/b] If you can catch an opponent when he is unable to defend himself effectively from your attack, you can strike a vital spot for extra damage. Your attack deals 6d6 points of extra damage anytime your target would be denied a Dexterity bonus to AC, or when you flank your target. Should you score a critical hit with a sneak attack, this extra damage is not multiplied. Ranged attacks can count as sneak attacks only if the target is within 30 feet. With a weapon that deals nonlethal damage, you can make a sneak attack that deals nonlethal damage instead of lethal damage. You cannot use a weapon that deals lethal damage to deal nonlethal damage in a sneak attack, not even with the usual -4 penalty. You must be able to see the target well enough to pick out a vital spot and must be able to reach such a spot. You cannot sneak attack while striking a creature with concealment.
+
+[b]Sure-Footed (Ex)[/b] Halflings receive a +2 racial bonus on Acrobatics and Climb skill checks.
+
+[b]Trapfinding (Ex)[/b] You add +5 to Perception skill checks made to locate traps and to Disable Device skill checks. You can use the Disable Device skill to disarm magical traps.
+
+[b]Trap Sense (Ex)[/b] You gain a +3 bonus on Reflex saves made to avoid traps, and a +3 dodge bonus to AC against attacks made by traps.
+
+[b]Uncanny Dodge (Ex)[/b] You can react to danger before your senses would normally allow you to do so. You cannot be caught flat-footed, nor do you lose your Dexterity bonus to AC if the attacker is invisible. You still lose your Dexterity bonus to AC if immobilized. You can still lose your Dexterity bonus to AC if an opponent successfully uses the feint action against you.
+
+[b]Weapon Familiarity (Ex)[/b] Halflings are proficient with slings and treat any weapon with the word "halfling" in its name as a martial weapon.
+
+
+
+[B]Possessions[/B]: <b>Amulet of Natural Armor +2</b>()(), <b>Bracers of Armor +3</b>()(), Masterwork Dagger (Punching/Small)()(), <b>Rapier +1 (Small)</b>()(), <b>Belt of Physical Might (DEX/CON) +4</b>()(), <b>Boots of Striding And Springing</b>()(), Bolts, Crossbow (10)()(), Masterwork Thieves' Tools()(), <b>Potion of Cure Light Wounds</b>(Cures 1d8+1 points of damage)(), <b>Wand of Expeditious Retreat</b>()(), <b>Wand of Feather Fall</b>()(), <b>Wand of Jump</b>()(), <b>Necklace of Fireballs I</b>()(), <b>Crossbow +1 (Hand/Small)</b>()(), 
+[b]Traits:[/b] Dangerously Curious, Fast-Talker
+[b]Favored Class Bonuses:[/b] Bonus hit points X5, Bonus Skill Rank UMD x 5

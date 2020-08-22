@@ -1,0 +1,56 @@
+﻿[Spoiler=Bio][/SPOILER][SPOILER=STATS][b]Lightning[/b]
+Male Familiar Hawk animal 1
+None Tiny animal/magical beast (familiar, augmented magical beast, familiarbase)
+[b]Init[/b] +3, [b]Senses[/b] low-light vision; Perception +14
+=================================================
+DEFENSE
+=================================================
+[b]AC[/b] 16, touch 15, flat-footed 13 (+3 Dex, +1 natural, +2 size )
+[b]hp[/b] 4 ((1d8))
+[b]Fort[/b] +2, [b]Ref[/b] +5, [b]Will[/b] +4
+
+=================================================
+OFFENSE
+=================================================
+[b]Speed[/b] 10 ft. Fly 60 ft. (Average)
+[b]Melee[/b] talons +5/+5 (1d2-2)
+[b]Space[/b] 2.5 ft. [b]Reach[/b] 0 ft.
+
+=================================================
+TEMP Bonuses
+=================================================
+
+=================================================
+STATISTICS
+=================================================
+[b]Str[/b] 6, [b]Dex[/b] 17, [b]Con[/b] 11, [b]Int[/b] 6, [b]Wis[/b] 14, [b]Cha[/b] 7,
+[b]Str[/b] -2, [b]Dex[/b] +3, [b]Con[/b] +0, [b]Int[/b] -2, [b]Wis[/b] +2, [b]Cha[/b] -2,
+[b]Base Atk[/b] +0; [b]CMB[/b] +1; [b]CMD[/b] 9
+[b]Feats[/b] Weapon Finesse
+[b]Skills[/b] Heal +3, Knowledge (Local) -1, Knowledge (Nature) -1, Perception +14, Spellcraft -1, Stealth +15, Survival +3, 
+[b]Communication[/b] Empathic Link, 
+[b]SQ[/b] alertness, empathic link, improved evasion, low-light vision, share spells, 
+[B]Combat Gear[/B] 
+[B]Other Gear[/B] talons, 0.0 gp
+=================================================
+SPECIAL ABILITIES
+=================================================
+[b]Alertness (Ex)[/b] While a familiar is within arm's reach, the master gains the Alertness feat.
+
+[b]Empathic Link (Su)[/b] The master has an empathic link with his familiar to a 1 mile distance. The master can communicate emphatically with the familiar, but cannot see through its eyes. Because of the link's limited nature, only general emotions can be shared. The master has the same connection to an item or place that his familiar does.
+
+[b]Improved Evasion (Ex)[/b] When subjected to an attack that normally allows a Reflex saving throw for half damage, an animal companion takes no damage if it makes a successful saving throw and only half damage if the saving throw fails.
+
+[b]Low-Light Vision (Ex)[/b] You can see x2 as far as humans in low illumination. Characters with low-light vision have eyes that are so sensitive to light that they can see twice as far as normal in dim light. Low-Light Vision is color vision. A spellcaster with low-light vision can read a scroll as long as even the tiniest candle flame is next to her as a source of light. Characters with low-light vision can see outdoors on a moonlit night as well as they can during the day.
+
+[b]Mod Empathic Link[/b] 
+
+[b]Mod Familiar ~ Alertness[/b] 
+
+[b]Mod Improved Evasion[/b] 
+
+[b]Mod Share Spells[/b] 
+
+[b]Share Spells (Ex)[/b] The master may cast a spell with a target of "You" on her animal companion (as a spell with a range of touch) instead of on herself. A master may cast spells on her animal companion even if the spells normally do not affect creatures of the companion's type (animal). Spells cast in this way must come from a class that grants an animal companion. This ability does not allow the animal to share abilities that are not spells, even if they function like spells.
+
+[/SPOILER]

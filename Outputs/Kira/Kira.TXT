@@ -1,0 +1,38 @@
+﻿﻿[B]Kira[/B]
+Female Human
+Inquisitor 1
+LG Medium Humanoid (Human)
+[B]Init[/B]: +1, [B]Senses[/B]: [B]Perception[/B]: +4
+[B]Languages[/B]: Abyssal, Common
+=================================================<br>
+DEFENSE<br>
+=================================================<br>
+[B]AC[/B] 17, [B]Touch[/B] 12, [B]Flat-footed[/B] 15, [B]CMD[/B] 13
+[B]HP[/B] 9 (1HD)
+[B]Fort[/B]: +3, [B]Ref[/B]: +1, [B]Will[/B]: +6
+=================================================<br>
+OFFENSE<br>
+=================================================<br>
+[B]Speed[/B]:  20 ft. (4 Squares)
+Melee Longsword +1 (1d8+1/19-20)
+Ranged Crossbow, Light +1 (1d8+1/19-20)
+Melee Dagger +1 (1d4+1/19-20)
+Ranged Dagger (thrown) +1 (1d4+2/19-20)
+[B]Face[/B]: 5 ft. [B]Reach[/B]: 5 ft. 
+[B]Base Atk[/B]: +0, [B]CMB[/B]: +1 
+ 
+[B]Known Inquisitor Spells[/B] (CL 1 st):
+0th - Acid Splash, Light, Read Magic, Stabilize (DC 14),  Virtue, 
+1st - Magic Weapon (DC 15),  Shield Of Faith (DC 15), 
+=================================================<br>
+STATISTICS<br>
+=================================================<br>
+[B]Abilities[/B]: Str 12, Dex 13, Con 13, Int 12, Wis 18, Cha 10
+[B]Feats[/B]: Armor Proficiency, Light, Armor Proficiency, Medium, Dodge, Point-Blank Shot, Shield Proficiency, Simple Weapon Proficiency
+[B]Skills[/B]: Acrobatics -3, Acrobatics (Jump) -7, Appraise +2, Bluff +4, Climb -3, Craft (Untrained) +1, Escape Artist -3, Fly -3, Handle Animal +1, Heal +8, Intimidate +5, Knowledge (Planes) +6, Knowledge (Planes/ID monster) +10, Perception +4, Ride -3, Sense Motive +5, Stealth +1, Survival +8, 
+[B]Possessions[/B]: Longsword()(), Explorer's Outfit()(), Scale Mail()(), Bolts, Crossbow (10)()(), Crossbow, Light()(), Dagger()(), 
+=================================================<br>
+SPECIAL ABILITIES<br>
+=================================================<br>
+
+[I]Created using PCGen 6.02.1 on 12-Nov-2014[/I]

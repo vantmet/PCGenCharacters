@@ -1,0 +1,281 @@
+Name:       Adoven Joysword
+Race:       Elf
+Player:      
+Classes:    Magus1
+Hit Points: 9
+Experience: 0 / 2000
+Alignment:  None
+Vision:     Low-Light Vision
+Speed:      Walk 30 ft.
+Languages:  Celestial, Common, Draconic, Elven, Goblin, Orc
+Stat    Score   Mod
+STR  14 (+2)
+DEX  12 (+1)
+CON  10 (+0)
+INT  18 (+4)
+WIS  11 (+0)
+CHA  12 (+1)
+-------------------------- Skills --------------------------
+Skill                   Total   Rnk     Stat    Msc
+Acrobatics  1  1.0  1  -1
+Appraise  4  0.0  4  0
+Bluff  2  1.0  1  0
+Bluff (Potentially Sexually Attracted)  3  1.0  1  1
+Climb  1  0.0  2  -1
+Craft (Untrained)  4  0.0  4  0
+Diplomacy  2  1.0  1  0
+Diplomacy (Potentially Sexually Attracted)  3  1.0  1  1
+Disguise  1  0.0  1  0
+Escape Artist  0  0.0  1  -1
+Fly  0  0.0  1  -1
+Heal  0  0.0  0  0
+Intimidate  1  0.0  1  0
+Knowledge (Arcana)  8  1.0  4  3
+Perception  2  0.0  0  2
+Perform (Untrained)  1  0.0  1  0
+Ride  0  0.0  1  -1
+Sense Motive  0  0.0  0  0
+Spellcraft  8  1.0  4  3
+Spellcraft (Identify magic item)  10  1.0  4  5
+Stealth  1  1.0  1  -1
+Survival  0  0.0  0  0
+Swim  1  0.0  2  -1
+-------------------------- Feats ---------------------------
+Combat Casting
+-------------------- Special Abilities ---------------------
+
+------------------------ Templates -------------------------
+
+-------------------------- Combat --------------------------
+    Total / Touch / Flat Footed
+AC: 14 / 11 / 13
+Initiative:   +1
+BAB:          +0
+Melee tohit:  +2
+Ranged tohit: +1
+Fortitude:    +2
+Reflex:       +1
+Will:         +2
+Unarmed attack:
+to hit:       +2
+damage:       1d3+2
+critical:     20/x2
+Rapier:
+to hit:       +2
+damage:       1d6+2
+critical:     18-20/x2
+Dagger:
+to hit:       +2
+damage:       1d4+2
+critical:     19-20/x2
+Dagger (Thrown):
+to hit:       +1
+damage:       1d4
+critical:     19-20/x2
+range:        10 ft.
+Longbow:
+to hit:       +1
+damage:       1d8
+critical:     20/x3
+range:        100 ft.
+--------------------- Special Abilities --------------------
+ 
+------------------------- Equipment ------------------------
+Name                                            QTY	LBS
+Outfit (Traveler's)  1	5lbs
+Studded Leather  1	20lbs
+Arrows (20)  1	3lbs
+Magus Spellbook  0	0lbs
+Potion of Cure Light Wounds  1	0lbs	Special: Cures 1d8+1 points of damage
+Spell Component Pouch (2 lbs.)
+Backpack (2 lbs.)
+Longbow (3 lbs.)
+Total weight carried: 41 lbs.
+Current load:         Light
+Encumbrance
+Light:  58   
+Medium: 116   
+Heavy:  175
+--------------------------- Magic --------------------------
+
+
+Magus Spells
+
+SPELLBOOKNAME0
+ 
+Level 0
+Acid Splash (Conjuration, EarthSchool)
+Saves: None	DC: 	Casting: 1 standard action
+Duration: Instantaneous	Range: Close (25 ft.)	Components: V, S
+SR: No	Effect: You fire a small orb of acid at the target dealing 1d3 points of acid damage.	Target: One missile of acid
+DESC: You fire a small orb of acid at the target dealing 1d3 points of acid damage.
+DESC 2:  You fire a small orb of acid at the target dealing 1d3 points of acid damage.
+Arcane Mark (Universal)
+Saves: None	DC: 	Casting: 1 standard action
+Duration: Permanent	Range: Touch	Components: V, S
+SR: No	Effect: This spell allows you to inscribe your personal rune or mark.	Target: One personal rune or mark, all of which must fit within 1 sq. ft.
+DESC: This spell allows you to inscribe your personal rune or mark.
+DESC 2:  This spell allows you to inscribe your personal rune or mark.
+Dancing Lights (Evocation)
+Saves: None	DC: 	Casting: 1 standard action
+Duration: 1 minute [D]	Range: Medium (110 ft.)	Components: V, S
+SR: No	Effect: You create up to four lights that resemble lanterns or torches.	Target: Up to four lights, all within a 10-ft.-radius area
+DESC: You create up to four lights that resemble lanterns or torches.
+DESC 2:  You create up to four lights that resemble lanterns or torches.
+Daze (Enchantment)
+Saves: Will negates	DC: 14	Casting: 1 standard action
+Duration: 1 round	Range: Close (25 ft.)	Components: V, S, M
+SR: Yes	Effect: This spell clouds the mind of a humanoid creature with 4 or fewer Hit Dice so that it takes no actions.	Target: One humanoid creature of 4 HD or less
+DESC: This spell clouds the mind of a humanoid creature with 4 or fewer Hit Dice so that it takes no actions.
+DESC 2:  This spell clouds the mind of a humanoid creature with 4 or fewer Hit Dice so that it takes no actions.
+Detect Magic (Divination)
+Saves: None	DC: 	Casting: 1 standard action
+Duration: Concentration, up to 1 minutes [D]	Range: 60 ft.	Components: V, S
+SR: No	Effect: You detect magical auras.	Target: Cone-shaped emanation
+DESC: You detect magical auras.
+DESC 2:  You detect magical auras.
+Disrupt Undead (Necromancy)
+Saves: None	DC: 	Casting: 1 standard action
+Duration: Instantaneous	Range: Close (25 ft.)	Components: V, S
+SR: Yes	Effect: You direct a ray of positive energy dealing 1d6 points of damage to Undead.	Target: Ray
+DESC: You direct a ray of positive energy dealing 1d6 points of damage to Undead.
+DESC 2:  You direct a ray of positive energy dealing 1d6 points of damage to Undead.
+Flare (Evocation)
+Saves: Fortitude negates	DC: 14	Casting: 1 standard action
+Duration: Instantaneous	Range: Close (25 ft.)	Components: V
+SR: Yes	Effect: This cantrip creates a burst of light.	Target: Burst of light
+DESC: This cantrip creates a burst of light.
+DESC 2:  This cantrip creates a burst of light.
+Ghost Sound (Illusion)
+Saves: Will disbelief	DC: 14	Casting: 1 standard action
+Duration: 1 rounds [D]	Range: Close (25 ft.)	Components: V, S, M
+SR: No	Effect: Ghost sound allows you to create a volume of sound that rises, recedes, approaches, or remains at a fixed place.	Target: Illusory sounds
+DESC: Ghost sound allows you to create a volume of sound that rises, recedes, approaches, or remains at a fixed place.
+DESC 2:  Ghost sound allows you to create a volume of sound that rises, recedes, approaches, or remains at a fixed place.
+Light (Evocation)
+Saves: None	DC: 	Casting: 1 standard action
+Duration: 10 minutes	Range: Touch	Components: V, M/DF
+SR: No	Effect: This spell causes a touched object to glow like a torch.	Target: Object touched
+DESC: This spell causes a touched object to glow like a torch.
+DESC 2:  This spell causes a touched object to glow like a torch.
+Mage Hand (Transmutation)
+Saves: None	DC: 	Casting: 1 standard action
+Duration: Concentration	Range: Close (25 ft.)	Components: V, S
+SR: No	Effect: You point your finger at an object and can lift it and move it at will from a distance.	Target: One nonmagical, unattended object weighing up to 5 lbs.
+DESC: You point your finger at an object and can lift it and move it at will from a distance.
+DESC 2:  You point your finger at an object and can lift it and move it at will from a distance.
+Open/Close (Transmutation)
+Saves: Will negates (object)	DC: 14	Casting: 1 standard action
+Duration: Instantaneous	Range: Close (25 ft.)	Components: V, S, F
+SR: Yes (object)	Effect: You can open or close [your choice] a door, chest, box, window, bag, pouch, bottle, barrel, or other container.	Target: Object weighing up to 30 lbs. or portal that can be opened or closed
+DESC: You can open or close (your choice) a door, chest, box, window, bag, pouch, bottle, barrel, or other container.
+DESC 2:  You can open or close [your choice] a door, chest, box, window, bag, pouch, bottle, barrel, or other container.
+Prestidigitation (Universal)
+Saves: See text	DC: 14	Casting: 1 standard action
+Duration: 1 hour	Range: 10 ft.	Components: V, S
+SR: No	Effect: Prestidigitations are minor tricks that novice spellcasters use for practice.	Target: See text
+DESC: Prestidigitations are minor tricks that novice spellcasters use for practice.
+DESC 2:  Prestidigitations are minor tricks that novice spellcasters use for practice.
+Ray of Frost (Evocation, WaterSchool)
+Saves: None	DC: 	Casting: 1 standard action
+Duration: Instantaneous	Range: Close (25 ft.)	Components: V, S
+SR: Yes	Effect: A ray of freezing air and ice projects from your pointing finger dealing 1d3 points of cold damage.	Target: Ray
+DESC: A ray of freezing air and ice projects from your pointing finger dealing 1d3 points of cold damage.
+DESC 2:  A ray of freezing air and ice projects from your pointing finger dealing 1d3 points of cold damage.
+Read Magic (Divination)
+Saves: 	DC: 	Casting: 1 standard action
+Duration: 10 minutes	Range: Personal	Components: V, S, F
+SR: 	Effect: You can decipher magical inscriptions on objects--books, scrolls, weapons, and the like--that would otherwise be unintelligible.	Target: You
+DESC: You can decipher magical inscriptions on objects--books, scrolls, weapons, and the like--that would otherwise be unintelligible.
+DESC 2:  You can decipher magical inscriptions on objects--books, scrolls, weapons, and the like--that would otherwise be unintelligible.
+Spark (Evocation, FireSchool)
+Saves: Fortitude negates (object)	DC: 14	Casting: 1 standard action
+Duration: Instantaneous	Range: Close (25 ft.)	Components: V or S
+SR: Yes (object)	Effect: Ignites flammable objects.	Target: one Fine object
+DESC: Ignites flammable objects.
+DESC 2:  Ignites flammable objects.
+ 
+ 
+Level 1
+Burning Hands (Evocation, FireSchool)
+Saves: Reflex half	DC: 15	Casting: 1 standard action
+Duration: Instantaneous	Range: 15 ft.	Components: V, S
+SR: Yes	Effect: A cone of searing flame shoots from your fingertips dealing 1d4 points of fire damage to any creature in the effect area.	Target: Cone-shaped burst
+DESC: A cone of searing flame shoots from your fingertips dealing (min(5,CASTERLEVEL))d4 points of fire damage to any creature in the effect area.
+DESC 2:  A cone of searing flame shoots from your fingertips dealing 1d4 points of fire damage to any creature in the effect area.
+Color Spray (Illusion)
+Saves: Will negates	DC: 15	Casting: 1 standard action
+Duration: Instantaneous; see text	Range: 15 ft.	Components: V, S, M
+SR: Yes	Effect: A vivid cone of clashing colors springs forth from your hand, causing creatures to become stunned, perhaps also blinded, and possibly knocking them unconscious.	Target: Cone-shaped burst
+DESC: A vivid cone of clashing colors springs forth from your hand, causing creatures to become stunned, perhaps also blinded, and possibly knocking them unconscious.
+DESC 2:  A vivid cone of clashing colors springs forth from your hand, causing creatures to become stunned, perhaps also blinded, and possibly knocking them unconscious.
+Expeditious Retreat (Transmutation)
+Saves: 	DC: 	Casting: 1 standard action
+Duration: 1 minutes [D]	Range: Personal	Components: V, S
+SR: 	Effect: This spell increases your base land speed by 30 feet.	Target: You
+DESC: This spell increases your base land speed by 30 feet.
+DESC 2:  This spell increases your base land speed by 30 feet.
+Frostbite (Transmutation)
+Saves: None	DC: 	Casting: 1 standard action
+Duration: Instantaneous	Range: Touch	Components: V, S
+SR: Yes	Effect: Target takes 1d6+1 nonlethal cold damage and is fatigued.	Target: Up to 1 creatures touched
+DESC: Target takes 1d6+(CASTERLEVEL) nonlethal cold damage and is fatigued.
+DESC 2:  Target takes 1d6+1 nonlethal cold damage and is fatigued.
+Grease (Conjuration, EarthSchool)
+Saves: See text	DC: 15	Casting: 1 standard action
+Duration: 1 minutes [D]	Range: Close (25 ft.)	Components: V, S, M
+SR: No	Effect: A grease spell covers a solid surface with a layer of slippery grease.	Target: One object or 10-ft. square
+DESC: A grease spell covers a solid surface with a layer of slippery grease.
+DESC 2:  A grease spell covers a solid surface with a layer of slippery grease.
+Shield (Abjuration)
+Saves: 	DC: 	Casting: 1 standard action
+Duration: 1 minutes [D]	Range: Personal	Components: V, S
+SR: 	Effect: Shield creates an invisible shield of force that hovers in front of you.	Target: You
+DESC: Shield creates an invisible shield of force that hovers in front of you.
+DESC 2:  Shield creates an invisible shield of force that hovers in front of you.
+Shocking Grasp (Evocation, AirSchool)
+Saves: None	DC: 	Casting: 1 standard action
+Duration: Instantaneous	Range: Touch	Components: V, S
+SR: Yes	Effect: Your successful melee touch attack deals 1d6 points of electricity damage.	Target: Creature or object touched
+DESC: Your successful melee touch attack deals (min(5,CASTERLEVEL))d6 points of electricity damage.
+DESC 2:  Your successful melee touch attack deals 1d6 points of electricity damage.
+ 
+  
+  
+  
+  
+  
+ 
+               
+               
+
+SPELLBOOKNAME3
+ 
+Level 0
+Acid Splash (Conjuration, EarthSchool) - 1 per day
+Daze (Enchantment) - 1 per day
+Light (Evocation) - 1 per day
+ 
+ 
+Level 1
+Color Spray (Illusion) - 1 per day
+Grease (Conjuration, EarthSchool) - 1 per day
+ 
+  
+  
+  
+  
+  
+ 
+
+            
+------------------------ Description -----------------------
+Height: 6' 5" Weight: 139 lbs. Gender: Male	
+Eyes:    Hair: , Skin: 
+Dominant Hand: Right Quirks: , 	
+Speech style:  Quotable: 
+Full Description
+
+Background
+
+Campaign Logs

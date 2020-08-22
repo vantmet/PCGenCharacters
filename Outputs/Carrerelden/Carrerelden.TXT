@@ -1,0 +1,73 @@
+﻿[Spoiler=Bio][/SPOILER][SPOILER=STATS][b]Carrerelden[/b]
+Male Elf magus 1
+None Medium humanoid (elf)
+[b]Init[/b] +1, [b]Senses[/b] low-light vision; Perception +2
+=================================================
+DEFENSE
+=================================================
+[b]AC[/b] 14, touch 11, flat-footed 13 (+3 armor, +1 Dex, )
+[b]hp[/b] 9 ((1d8)+1)
+[b]Fort[/b] +2, [b]Ref[/b] +1, [b]Will[/b] +2, +2 vs. enchantment spells and effects
+
+=================================================
+OFFENSE
+=================================================
+[b]Speed[/b] 30 ft.
+[b]Melee[/b] rapier +2 (1d6+2/18-20)
+[b]Melee[/b] dagger +2 (1d4+2/19-20)
+[b]Ranged[/b] dagger (thrown) +1 (1d4+2/19-20)
+[b]Ranged[/b] longbow +1 (1d8/x3)
+[b]Special Attacks[/b] Spell Combat, 
+
+
+[b]Prepared Spells[/b]
+[b]Magus[/b] (CL 1st; concentration +5)
+1st-[i]color spray[/i](DC 15), [i]grease[/i](DC 15)
+0th-[i]acid splash[/i], [i]daze[/i](DC 14), [i]light[/i]
+=================================================
+TEMP Bonuses
+=================================================
+
+=================================================
+STATISTICS
+=================================================
+[b]Str[/b] 14, [b]Dex[/b] 12, [b]Con[/b] 10, [b]Int[/b] 18, [b]Wis[/b] 11, [b]Cha[/b] 12,
+[b]Str[/b] +2, [b]Dex[/b] +1, [b]Con[/b] +0, [b]Int[/b] +4, [b]Wis[/b] +0, [b]Cha[/b] +1,
+[b]Base Atk[/b] +0; [b]CMB[/b] +2; [b]CMD[/b] 13
+[b]Feats[/b] Combat Casting
+[b]Skills[/b] Acrobatics +1, Bluff +2, Bluff (Potentially Sexually Attracted) +3, Diplomacy +2, Diplomacy (Potentially Sexually Attracted) +3, Knowledge (Arcana) +8, Spellcraft +8, Spellcraft (Identify magic item) +10, Stealth +1, 
+[b]Traits[/b] Charming, Dirty Fighter, 
+[b]Languages[/b] Celestial, Common, Draconic, Elven, Goblin, Orc
+[b]SQ[/b] arcane pool (5/day), armor proficiency, cantrips, elven immunities, elven magic, keen senses, low-light vision, weapon familiarity, 
+[B]Combat Gear[/B] [i]potion of cure light wounds[/i], 
+[B]Other Gear[/B] rapier, outfit (traveler's), studded leather, arrows (20), spell component pouch, backpack, common, dagger, longbow, 60.0 gp
+=================================================
+SPECIAL ABILITIES
+=================================================
+[b]Arcane Pool (Su)[/b] You have a reservoir of mystical arcane energy that you draw upon to fuel your powers and enhance your weapon. This arcane pool has 5 points. The pool refreshes once per day when you prepare your spells. You can expend 1 point from your arcane pool as a swift action to grant any weapon you are holding a +1 enhancement bonus for 1 minute. These bonuses can be added to the weapon, stacking with existing weapon enhancement to a maximum of +5. Multiple uses of this ability do not stack with themselves.
+
+[b]Armor Proficiency (Ex)[/b] You can cast magus spells while wearing light armor without incurring the normal arcane spell failure chance. Like any other arcane spellcaster, a magus wearing medium armor, heavy armor, or a shield incurs a chance of arcane spell failure if the spell in question has a somatic component. A multiclass magus still incurs the normal arcane spell failure chance for arcane spells received from other classes.
+
+[b]Cantrips[/b] You can prepare a number of cantrips, or 0-level spells, each day. These spells are cast like any other spell, but they are not expended when cast and may be used again.
+
+[b]Charming[/b] Blessed with good looks, you've come to depend on the fact that others find you attractive. You gain a +1 trait bonus when you use Bluff or Diplomacy on a character that is (or could be) sexually attracted to you, and a +1 trait bonus to the save DC of any language-dependent spell you cast on such characters or creatures.
+
+[b]Dirty Fighter[/b] You wouldn't have lived to make it out of childhood without the aid of a sibling, friend, or companion on whom you could always count to distract your enemies long enough to do a little bit more damage than normal. When you hit a foe you are flanking, you deal an additional 1 point of damage (this damage is added to your base damage, and is multiplied on a critical hit). This additional damage is a trait bonus.
+
+[b]Elven Immunities (Ex)[/b] Elves are immune to magic sleep effects and get a +2 racial saving throw bonus against enchantment spells and effects.
+
+[b]Elven Magic (Ex)[/b] Elves receive a +2 racial bonus on caster level checks made to overcome spell resistance. In addition, elves receive a +2 racial bonus on Spellcraft skill checks made to identify the properties of magic items.
+
+[b]Keen Senses (Ex)[/b] Elves receive a +2 bonus on Perception skill checks.
+
+[b]Low-Light Vision (Ex)[/b] You can see x2 as far as humans in low illumination. Characters with low-light vision have eyes that are so sensitive to light that they can see twice as far as normal in dim light. Low-Light Vision is color vision. A spellcaster with low-light vision can read a scroll as long as even the tiniest candle flame is next to her as a source of light. Characters with low-light vision can see outdoors on a moonlit night as well as they can during the day.
+
+[b]Spell Combat (Ex)[/b] You can cast spells and wield your weapons at the same time. This functions much like two-weapon fighting, but the offhand weapon is a spell that is being cast. To use this ability, you must have one hand free (even if the spell being cast does not have somatic components), while wielding a light or one-handed melee weapon in the other hand. As a full-round action, you can make all of your attacks with your melee weapon at a -2 penalty and can also cast any spell from the magus spell list with a casting time of 1 standard action  (any attack roll made as part of this spell also takes this penalty). If you cast this spell defensively, you can decide to take an additional penalty on your attack rolls, up to your Intelligence bonus, and add the same amount as a circumstance bonus on your concentration check. If the check fails, the spell is wasted, but the attacks still take the penalty. You can choose to cast the spell first or make the weapon attacks first, but if you have more than one attack, you cannot cast the spell between weapon attacks.
+
+[b]Weapon Familiarity (Ex)[/b] Elves are proficient with longbows (including composite longbows), longswords, rapiers, and shortbows (including composite shortbows), and treat any weapon with the word "elven" in its name as a martial weapon.
+
+=================================================
+Magus Spellbook
+=================================================
+[b]Magus Spells[/b]
+[/SPOILER]

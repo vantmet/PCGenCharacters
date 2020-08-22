@@ -1,0 +1,115 @@
+﻿[Spoiler=Bio]Kira's parents were both Crusaders. Born to Crusader families that traced their roots proudly to the beginning of the First Crusade.  Her bedtime stories were of the valour of famous crusaders and if she was naughty, she was told she'd be taken by demons in the night. It was assumed throughout her childhood that Kira would follow in this line, to become a knight, or Paladin and fight for her family’s honour. Kira was an unexceptional child. Unusually wilful, but that was a trait praised as being useful to fight the attention of Demons. She was taught the language of the abyss and the study of demons, and how to identify and defeat them. She was never the best at these studies though, and neither was she unusually strong. By her teenage years Kira's wilfulness became a curse. Tired of expectation, she sneaked off one night, and headed for far away Varisia,
+
+Her travels took her along the Storval Plattaue; To Korvosa and teh border of Cheliax;  To free Magnimar; Even a short time in the inns of Riddleport. As she travelled and grew, Kira recognised the truth of her Parents belief, and how much the world would lose if the demons of the world wound were not defeated. She contacted the church of Iomedae and became an Inquisitor in Magnimar. Her time in Kenabres gave her a head start and son she was in a position to ask to be transferred to her home city.
+
+When she returned, Kira learnt her parents were both away fighting, but was given the task of handler for a strangely deformed man whom all investigations showed to be human, despite horns and tail.
+[/SPOILER][SPOILER=STATS][b]Kira Valerious[/b]
+Female Human inquisitor 3
+LG Medium humanoid (human)
+[b]Init[/b] +5, [b]Senses[/b] Perception +9
+=================================================
+DEFENSE
+=================================================
+[b]AC[/b] 18, touch 12, flat-footed 16 (+5 armor, +1 Dex, +1 dodge, +1 shield, )
+[b]hp[/b] 21 ((3d8)+4)
+[b]Fort[/b] +4, [b]Ref[/b] +2, [b]Will[/b] +7,  +2 trait bonus vs. fear
+
+=================================================
+OFFENSE
+=================================================
+[b]Speed[/b] 20 ft.
+[b]Melee[/b] longsword +3 (1d8+1/19-20)
+[b]Melee[/b] shield (light/wooden) -1 (1d3)
+[b]Ranged[/b] crossbow (light) +3 (1d8/19-20), within 30 ft. +4 (1d8+1)
+[b]Melee[/b] dagger +3 (1d4+1/19-20)
+[b]Ranged[/b] dagger (thrown) +3 (1d4+2/19-20), within 30 ft. +4 (1d4+2)
+[b]Special Attacks[/b] Judgment / Destruction, Judgment / Healing, Judgment / Justice, Judgment / Piercing, Judgment / Protection, Judgment / Purity, Judgment / Resiliency, Judgment / Resistance, Judgment / Smiting, Stern Gaze, 
+[b]Inquisitor Spell-Like Abilities[/b] [i]detect chaos[/i] (at will)[i]detect evil[/i] (at will)[i]detect good[/i] (at will)[i]detect law[/i] (at will)
+
+[b]Inquisitor Spells Known[/b] (CL 3rd; concentration +7)
+1st(4/day)-[i]cure light wounds[/i](DC 15), [i]magic weapon[/i](DC 15), [i]protection from evil[/i](DC 15), [i]shield of faith[/i](DC 15)
+0th(at will)-[i]acid splash[/i], [i]guidance[/i](DC 14), [i]light[/i], [i]read magic[/i](DC ), [i]resistance[/i](DC 14), [i]sift[/i], [i]stabilize[/i](DC 14), [i]virtue[/i]
+
+
+=================================================
+TEMP Bonuses
+=================================================
+
+=================================================
+STATISTICS
+=================================================
+[b]Str[/b] 12, [b]Dex[/b] 13, [b]Con[/b] 13, [b]Int[/b] 12, [b]Wis[/b] 18, [b]Cha[/b] 10,
+[b]Str[/b] +1, [b]Dex[/b] +1, [b]Con[/b] +1, [b]Int[/b] +1, [b]Wis[/b] +4, [b]Cha[/b] +0,
+[b]Base Atk[/b] +2; [b]CMB[/b] +3; [b]CMD[/b] 15
+[b]Feats[/b] Coordinated Shot, Dodge, Point-Blank Shot, Precise Shot
+[b]Skills[/b] Appraise +2, Bluff +5, Handle Animal +1, Heal +10, Intimidate +6, Knowledge (Arcana) +5, Knowledge (Arcana) (ID monster) +9, Knowledge (Local) +4, Knowledge (Local) (ID monster) +8, Knowledge (Planes) +7, Knowledge (Planes) (ID monster) +11, Knowledge (Religion) +6, Knowledge (Religion) (ID monster) +10, Perception +9, Spellcraft +7, Stealth -1, Survival +8, Survival (Follow or identify tracks) +9, 
+[b]Traits[/b] Scholar of the Great Beyond (Knowledge (Planes)), 
+[b]Languages[/b] Abyssal, Common
+[b]SQ[/b] bonus feat, bonus inquisitor spell (2x), cunning initiative, detect alignment, judgment (sacred), monster lore, skilled, solo tactics, touch of law (7/day), track, , 
+[B]Combat Gear[/B] torch (2), rations (trail/per day) (4), [i]potion of cure light wounds[/i], 
+[B]Other Gear[/B] longsword, shield (light/wooden), outfit (explorer's), scale mail, bolts (crossbow/10) (2), backpack, common, whetstone, small tent, flask (empty), blanket, bedroll, crossbow (light), dagger, 68.63 gp
+=================================================
+SPECIAL ABILITIES
+=================================================
+[b]Bonus Feat[/b] Humans select one extra feat at 1st level.
+
+[b]Bonus Inquisitor Spell (2x)[/b] Add one spell known from the inquisitor spell list. This spell must be at least one level below the highest spell level the inquisitor can cast.
+
+[b]Child of the Crusades[/b] Your parents stood strong against the demons of the Worldwound, facing down the worst of this world and the Great Beyond. You have inherited their indomitable spirit, and you gain a +2 trait bonus on all saves against fear.
+
+[b]Cunning Initiative (Ex)[/b] An inquisitor adds her Wisdom modifier on initiative checks, in addition to her Dexterity modifier.
+
+[b]Detect Alignment (Sp)[/b] At will, an inquisitor can use detect chaos, detect evil, detect good, or detect law. She can only use one of these at any given time.
+
+[b]Domains[/b] 
+
+[b]Inquisitor ~ Domains[/b] 
+
+[b]Inquisitor ~ Judgment[/b] 
+
+[b]Inquisitor ~ Teamwork Feat[/b] 
+
+[b]Inquisitor Spell Level 0 (2x)[/b] 
+
+[b]Judgment / Destruction[/b] The inquisitor is filled with divine wrath, gaining a +2 sacred bonus on all weapon damage rolls.
+
+[b]Judgment / Healing[/b] The inquisitor is surrounded by a healing light, gaining fast healing 2. This causes the inquisitor to heal 2 point of damage each round as long as the inquisitor is alive and the judgment lasts.
+
+[b]Judgment / Justice[/b] This judgment spurs the inquisitor to seek justice, granting a +1 sacred bonus on all attack rolls.
+
+[b]Judgment / Piercing[/b] This judgment gives the inquisitor great focus and makes her spells more potent. This benefit grants a +2 sacred bonus on concentration checks and caster level checks made to overcome a target's spell resistance.
+
+[b]Judgment / Protection[/b] The inquisitor is surrounded by a protective aura, granting a +1 sacred bonus to Armor Class.
+
+[b]Judgment / Purity[/b] The inquisitor is protected from the vile taint of her foes, gaining a +1 sacred bonus on all saving throws.
+
+[b]Judgment / Resiliency[/b] This judgment makes the inquisitor resistant to harm, granting DR 1/magic.
+
+[b]Judgment / Resistance[/b] The inquisitor is shielded by a flickering aura, gaining 4 points of energy resistance against one energy type (acid, cold, electricity, fire, or sonic) chosen when the judgment is declared.
+
+[b]Judgment / Smiting[/b] This judgment bathes the inquisitor's weapons in a divine light. The inquisitor's weapons count as magic for the purposes of bypassing damage reduction.
+
+[b]Judgment (Sacred) (Su)[/b] An inquisitor can pronounce judgment upon her foes as a swift action. Starting when the judgment is made, the inquisitor receives a bonus or special ability based on the type of judgment made. An inquisitor can use this ability 1 times per day. Once activated, this ability lasts until the combat ends, at which point all of the bonuses immediately end. The inquisitor must participate in the combat to gain these bonuses. If she is frightened, panicked, paralyzed, stunned, unconscious, or otherwise prevented from participating in the combat, the ability does not end, but the bonuses do not resume until she can participate in the combat again. When the inquisitor uses this ability, she must select one type of judgment to make. As a swift action, she can change this judgment to another type.
+
+[b]Law[/b] 
+
+[b]Monster Lore (Ex)[/b] The inquisitor adds her Wisdom modifier on Knowledge skill checks in addition to her Intelligence modifier, when making skill checks to identify the abilities and weaknesses of creatures.
+
+[b]Scholar of the Great Beyond (Knowledge (Planes))[/b] Your greatest interests as a child did not lie with current events or the mundane- you have always felt out of place, as if you were born in the wrong era. You take to philosophical discussions of the Great Beyond and of historical events with ease. You gain a +1 trait bonus on Knowledge (history) and Knowledge (planes) checks, and one of these skills (your choice) is always a class skill for you.
+
+[b]Skilled[/b] Humans gain an additional skill rank at first level and one additional rank whenever they gain a level.
+
+[b]Solo Tactics (Ex)[/b] All of the inquisitor's allies are treated as if they possessed the same teamwork feats as the inquisitor for the purpose of determining whether the inquisitor receives a bonus from her teamwork feats. Her allies do not receive any bonuses from these feats unless they actually possess the feats themselves. The allies' positioning and actions must still meet the prerequisites listed in the teamwork feat for the inquisitor to receive the listed bonus.
+
+[b]Stern Gaze (Ex)[/b] Inquisitors are skilled at sensing deception and intimidating their foes. An inquisitor receives a +1 morale bonus on all Intimidate and Sense Motive checks.
+
+[b]Touch of Law (Sp)[/b] You can touch a willing creature as a standard action, infusing it with the power of divine order and allowing it to treat all attack rolls, skill checks, ability checks, and saving throws for 1 round as if the natural d20 roll resulted in an 11. You can use this ability 7 times per day.
+
+[b]Track (Ex)[/b] An inquisitor adds half her level on Survival skill checks made to follow or identify tracks.
+
+[b][/b] 
+
+[b][/b] 
+
+
+[/SPOILER]

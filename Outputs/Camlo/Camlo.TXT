@@ -1,0 +1,136 @@
+Name:       Camlo
+Race:       Halfling
+Player:      
+Classes:    Rogue10
+Hit Points: 83
+Experience: 105000 / 155000
+Alignment:  None
+Vision:     
+Speed:      Walk 30 ft.
+Languages:  Common, Dwarven, Elven, Halfling
+Stat    Score   Mod
+STR      10      (+0)
+DEX      24      (+7)
+CON      16      (+3)
+INT      15      (+2)
+WIS      8       (-1)
+CHA      16      (+3)
+-------------------------- Skills --------------------------
+Skill                   Total   Rnk     Stat    Msc
+Acrobatics               22       10.0     7        5
+Acrobatics (Jump)        27       10.0     7        10
+Acrobatics (Jump/Underground)  12       0.0      7        5
+Appraise                 2        0.0      2        0
+Bluff                    4        0.0      3        1
+Climb                    15       10.0     0        5
+Craft (Untrained)        2        0.0      2        0
+Diplomacy                3        0.0      3        0
+Disable Device           25       8.0      7        10
+Disguise                 3        0.0      3        0
+Escape Artist            24       10.0     7        7
+Fly                      9        0.0      7        2
+Heal                     -1       0.0      -1       0
+Intimidate               3        0.0      3        0
+Knowledge (Dungeoneering)  15       10.0     2        3
+Knowledge (Local)        15       10.0     2        3
+Perception               14       10.0     -1       5
+Perception (Trapfinding)  19       10.0     -1       10
+Perform (Untrained)      3        0.0      3        0
+Ride                     7        0.0      7        0
+Sense Motive             6        4.0      -1       3
+Sleight of Hand          20       10.0     7        3
+Stealth                  28       10.0     7        11
+Survival                 -1       0.0      -1       0
+Swim                     0        0.0      0        0
+Use Magic Device         17       10.0     3        4
+                                                    
+-------------------------- Feats ---------------------------
+Agile Maneuvers
+  You add your Dexterity bonus to your base attack bonus and size bonus when determining your Combat Maneuver Bonus (see Chapter 8) instead of your Strength bonus.
+  
+Point-Blank Shot
+  You get a +1 bonus on attack and damage rolls with ranged weapons at ranges of up to 30 feet.
+  
+Stealthy
+  You get a +2 bonus on all Escape Artist and Stealth skill checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.
+  
+Two-Weapon Defense
+  When wielding a double weapon or two weapons (not including natural weapons or unarmed strikes), you gain a +1 shield bonus to your AC. When you are fighting defensively or using the total defense action, this shield bonus increases to +2.
+  
+Two-Weapon Fighting
+  Your penalties on attack rolls for fighting with two weapons are reduced. The penalty for your primary hand lessens by 2 and the one for your off hand lessens by 6. See Two-Weapon Fighting in Chapter 8.
+  
+Weapon Focus (Rapier)
+Armor Proficiency, Light
+Weapon Finesse
+-------------------- Special Abilities ---------------------
+
+------------------------ Templates -------------------------
+
+-------------------------- Combat --------------------------
+    Total / Touch / Flat Footed
+AC: 23    / 20    / 16
+Initiative:   +7
+BAB:          +7/+2
+Melee tohit:  +8/+3
+Ranged tohit: +15/+10
+Fortitude:    +7
+Reflex:       +15
+Will:         +3
+Unarmed attack:
+to hit:       +15/+10
+damage:       1d2
+critical:     20/x2
+Masterwork Dagger (Punching/Small):
+to hit:       +14
+damage:       1d3
+critical:     20/x3
+Rapier +1 (Small):
+to hit:       +15/+10
+damage:       1d4+1
+critical:     18-20/x2
+Crossbow +1 (Hand/Small):
+to hit:       +16/+11
+damage:       1d3+1
+critical:     19-20/x2
+range:        30 ft.
+--------------------- Special Abilities --------------------
+ 
+------------------------- Equipment ------------------------
+Name                                            QTY	LBS
+Amulet of Natural Armor +1                       1	0lbs
+Bracers of Armor +3                              1	1lbs
+Masterwork Dagger (Punching/Small)               1	0lbs
+Rapier +1 (Small)                                1	1lbs
+Belt of Physical Might (DEX/CON) +4              1	1lbs
+Boots of Striding And Springing                  1	1lbs
+Bolts (Crossbow/10)                              1	1lbs
+Masterwork Thieves' Tools                        1	1lbs
+Potion of Cure Light Wounds                      2	0lbs	Special: Cures 1d8+1 points of damage
+Coin (Copper Piece)                              11	0lbs
+Coin (Gold Piece)                                500	10lbs
+Coin (Silver Piece)                              5	0lbs
+Wand of Expeditious Retreat                      1	0lbs
+Wand of Feather Fall                             1	0lbs
+Wand of Jump                                     1	0lbs
+Necklace of Fireballs I                          1	1lbs
+Crossbow +1 (Hand/Small) (1 lbs.)
+Total weight carried: 
+Current load:         Light
+Encumbrance
+Light:  25   
+Medium: 50   
+Heavy:  75
+--------------------------- Magic --------------------------
+
+      
+      
+------------------------ Description -----------------------
+Height: 3' 1"             Weight: 35 lbs.                 Gender: Male	
+Eyes:                Hair: ,                        Skin: 
+Dominant Hand: Right      Quirks: , 	
+Speech style:        Quotable: 
+Full Description
+
+Background
+

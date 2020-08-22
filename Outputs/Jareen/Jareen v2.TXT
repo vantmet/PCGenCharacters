@@ -1,0 +1,77 @@
+﻿[b]Jareen[/b]
+Male Human illusionist 4 [b]Archetypes[/b] Mage of the Veil, 
+LN Medium humanoid (human)
+[b]Init[/b] +0, [b]Senses[/b] Perception +3
+=================================================
+DEFENSE
+=================================================
+[b]AC[/b] 10, touch 10, flat-footed 10 ()
+[b]hp[/b] 31 ((4d6)+12)
+[b]Fort[/b] +2, [b]Ref[/b] +1, [b]Will[/b] +5
+
+=================================================
+OFFENSE
+=================================================
+[b]Speed[/b] 20 ft.
+[b]Melee[/b] quarterstaff +1 (1d6-1/-1)
+[b]Melee[/b] quarterstaff (head 1 only) +1 (1d6-1)
+[b]Melee[/b] quarterstaff (head 2 only) +1 (1d6-1)
+[b]Melee[/b] dagger +1 (1d4-1/19-20)
+[b]Ranged[/b] dagger (thrown) +2 (1d4-1/19-20)
+
+
+[b]Prepared Spells[/b]
+[b]Wizard[/b] (CL 4th; concentration +7)
+2nd-[i]alter self[/i](DC ), [i]invisibility[/i](DC 16), [i]mirror image[/i](DC ), [i]web[/i](DC 16)
+1st-[i]color spray[/i](DC 15), [i]enlarge person[/i](DC 15), [i]icicle dagger[/i], [i]magic missile[/i], [i]sleep[/i](DC 15)
+0th-[i]touch of fatigue[/i](DC 14), [i]dancing lights[/i], [i]light[/i], [i]ray of frost[/i]
+=================================================
+TACTICS
+=================================================
+
+=================================================
+STATISTICS
+=================================================
+[b]Str[/b] 8, [b]Dex[/b] 10, [b]Con[/b] 12, [b]Int[/b] 19, [b]Wis[/b] 12, [b]Cha[/b] 16,
+[b]Base Atk[/b] +2; [b]CMB[/b] +1; [b]CMD[/b] 11
+[b]Feats[/b] Combat Casting, Elemental Focus (Cold), Scribe Scroll, Toughness
+[b]Skills[/b] Bluff +10, Diplomacy +7, Heal +3, Knowledge (History) +11, Knowledge (Religion) +12, Perception +3, Spellcraft +11, Stealth +4, 
+[b]Traits[/b] Child of the Temple (Knowledge (Nobility)), Focused Mind, 
+[b]Languages[/b] Common, Dwarven, Giant, Halfling, Infernal (cannot speak)
+[b]SQ[/b] arcane bond, bonded object, bonus feat, cantrips, divination opposition school, extended illusion, face in the crowd, illusion school, necromancy opposition school, skilled, 
+[B]Combat Gear[/B] [i]scroll (cure light wounds)[/i] (10), [i]scroll (mage armor)[/i] (10), rations (trail/per day) (5), torch (10), 
+[B]Other Gear[/B] quarterstaff, hot weather outfit, pouch (belt), spellbook (wizard's/blank), backpack, bedroll, waterskin, flint and steel, ink (1 oz vial), inkpen, pot (iron), mess kit, rope (hemp/50 ft), soap (per lb), spell component pouch, dagger, 8477.0 gp
+=================================================
+SPECIAL ABILITIES
+=================================================
+[b]Arcane Bond (Su)[/b] You have selected to establish a powerful arcane bond with an object.
+
+[b]Bonded Object[/b] Objects that are the subject of an arcane bond must fall into one of the following categories: amulet, ring, staff, wand, or weapon. These objects are always masterwork quality. Weapons acquired at 1st level are not made of any special material. If the object is an amulet or ring, it must be worn to have effect, while staves, wands, and weapons must be held in one hand. When attempting to cast a spell without your bonded object worn or in hand, you must make a concentration check or lose the spell (DC 20 + the spell's level). A ring or amulet occupies the ring or neck slot accordingly.
+
+[b]Bonus Feat[/b] Humans select one extra feat at 1st level.
+
+[b]Cantrips[/b] You can prepare a number of cantrips, or 0-level spells, each day. These spells are cast like any other spell, but they are not expended when cast and may be used again. You can prepare a cantrip from a prohibited school, but it uses up two of your available slots.
+
+[b]Child of the Temple (Knowledge (Nobility))[/b] You have long served at a temple in a city, and not only did you pick up on many of the nobility's customs, you spent much time in the temple libraries studying your faith. You gain a +1 trait bonus on Knowledge (Nobility) and Knowledge (Religion) checks, and Knowledge (Nobility) is always a class skill for you.
+
+[b]Divination Opposition School[/b] You have chosen divination spells as an opposition school. Preparing an divination spell takes up two spell slots of the same level. You take a -4 penalty on any skill checks made when crafting a magic item that has an divination spell as a prerequisite.
+
+[b]Extended Illusion (Su)[/b] Any illusion spell you cast with a duration of "Concentration" lasts an additional 2 rounds after you stop maintaining concentration.
+
+[b]Face in the Crowd (Sp)[/b] As a standard action, you can cause yourself to appear so normal, mundane, and unexceptional that you blend in to your surroundings. All creatures within 30 feet treat you as if you belonged there, effectively ignoring you. Creatures outside of this area may notice that you appear out of place, but as soon as they approach within 30 feet they are affected by the magic and no longer think something is amiss. If you interact with an affected creature in any way, it gains a Will save (DC 16) to disbelieve the illusion and notice you. The effect lasts for 4 minutes, or until the illusion is dispelled. The minutes do not need to be consecutive, but must be used in 1-minute increments. This is a mind-affecting phantasm effect. This ability does not turn you invisible and opponents are not considered flat-footed. It does not allow you to disguise yourself as a specific individual, type of person, or member of another race, so you cannot blend into a group of uniformed guards or appear as a member of an individual's family, and a human cannot blend into a group of gnolls. You can blend in with any group made up of different types of people, such as a crowd of courtiers in a king's throne room, and you can disguise yourself (either through magic or more mundane means) to appear as a specific type of person or another race (such as a uniformed guard or a gnoll) before using this ability.
+
+[b]Focused Mind[/b] Your childhood was either dominated by lessons of some sort (be they musical or academic) or by a horrible home life that encouraged your ability to block out distractions to focus on the immediate task at hand. You gain a +2 trait bonus on concentration checks.
+
+[b]Illusion School[/b] You have chosen to specialize in illusion spells.
+
+[b]Necromancy Opposition School[/b] You have chosen necromancy spells as an opposition school. Preparing an necromancy spell takes up two spell slots of the same level. You take a -4 penalty on any skill checks made when crafting a magic item that has an necromancy spell as a prerequisite.
+
+[b]Skilled[/b] Humans gain an additional skill rank at first level and one additional rank whenever they gain a level.
+
+=================================================
+Spellbook (Wizard's/Blank)
+=================================================
+[b]Wizard Spells[/b]
+2nd -[i]alter self[/i], [i]invisibility[/i], [i]mirror image[/i], [i]web[/i]
+1st -[i]burning hands[/i], [i]color spray[/i], [i]disguise self[/i], [i]enlarge person[/i], [i]grease[/i], [i]icicle dagger[/i], [i]magic missile[/i], [i]obscuring mist[/i], [i]silent image[/i], [i]sleep[/i], [i]unprepared combatant[/i]
+0th -[i]bleed[/i], [i]detect magic[/i], [i]detect poison[/i], [i]disrupt undead[/i], [i]read magic[/i], [i]touch of fatigue[/i], [i]dancing lights[/i], [i]light[/i], [i]daze[/i], [i]acid splash[/i], [i]open/close[/i], [i]prestidigitation[/i], [i]haunted fey aspect[/i], [i]mending[/i], [i]flare[/i], [i]message[/i], [i]resistance[/i], [i]spark[/i], [i]ghost sound[/i], [i]ray of frost[/i], [i]arcane mark[/i], [i]mage hand[/i]
