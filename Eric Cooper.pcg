@@ -1,0 +1,290 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Advanced Player's Guide|CAMPAIGN:Advanced Race Guide|CAMPAIGN:Ultimate Combat|CAMPAIGN:Ultimate Equipment|CAMPAIGN:Ultimate Magic|CAMPAIGN:Inner Sea World Guide|CAMPAIGN:Pathfinder RPG Core Supplements|CAMPAIGN:Council of Thieves Player's Guide|CAMPAIGN:Pathfinder RPG for Players
+VERSION:6.02.1
+ROLLMETHOD:2|EXPRESSION:High Fantasy
+PURCHASEPOINTS:Y|TYPE:High Fantasy
+CHARACTERTYPE:PC
+PREVIEWSHEET:Standard.htm
+POOLPOINTS:20
+POOLPOINTSAVAIL:20
+GAMEMODE:Pathfinder_RPG
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+SKILLFILTER:1
+IGNORECOST:N
+ALLOWDEBT:N
+AUTORESIZEGEAR:Y
+
+# Character Bio
+CHARACTERNAME:Eric Cooper
+TABNAME:
+PLAYERNAME:electricjokecascade
+HEIGHT:64
+WEIGHT:150
+AGE:17
+GENDER:Male
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:
+HAIRCOLOR:
+HAIRSTYLE:
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:10
+STAT:DEX|SCORE:14
+STAT:CON|SCORE:14
+STAT:INT|SCORE:15
+STAT:WIS|SCORE:11
+STAT:CHA|SCORE:12
+ALIGN:CN
+RACE:Human
+
+# Character Class(es)
+CLASS:Wizard|SUBCLASS:Illusionist|LEVEL:2|SKILLPOOL:0
+CLASSABILITIESLEVEL:Wizard=1|HITPOINTS:6|SPECIALTIES:[SPECIALTY:Illusion]|SKILLSGAINED:6|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Wizard=2|HITPOINTS:4|SKILLSGAINED:6|SKILLSREMAINING:0
+
+# Character Experience
+EXPERIENCE:2000
+EXPERIENCETABLE:Medium
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:Creature with Class Levels]
+TEMPLATESAPPLIED:[NAME:Human Ethnicity]
+TEMPLATESAPPLIED:[NAME:Human Ethnicity (Varisian)]
+TEMPLATESAPPLIED:[NAME:Regional Affinity (Varisia)]
+
+# Character Region
+REGION:Varisia
+
+# Character Skills
+SKILL:Acrobatics|OUTPUTORDER:1|
+SKILL:Appraise|OUTPUTORDER:9|
+SKILL:Bluff|OUTPUTORDER:10|CLASSBOUGHT:[CLASS:Wizard|RANKS:1.0|COST:1|CLASSSKILL:N]
+SKILL:Climb|OUTPUTORDER:11|
+SKILL:Craft (Untrained)|OUTPUTORDER:15|
+SKILL:Diplomacy|OUTPUTORDER:16|CLASSBOUGHT:[CLASS:Wizard|RANKS:1.0|COST:1|CLASSSKILL:N]
+SKILL:Disguise|OUTPUTORDER:18|
+SKILL:Escape Artist|OUTPUTORDER:19|
+SKILL:Fly|OUTPUTORDER:21|
+SKILL:Heal|OUTPUTORDER:22|
+SKILL:Intimidate|OUTPUTORDER:23|
+SKILL:Perception|OUTPUTORDER:48|CLASSBOUGHT:[CLASS:Wizard|RANKS:1.0|COST:1|CLASSSKILL:N]
+SKILL:Perform (Untrained)|OUTPUTORDER:49|
+SKILL:Ride|OUTPUTORDER:50|
+SKILL:Sense Motive|OUTPUTORDER:52|
+SKILL:Stealth|OUTPUTORDER:60|
+SKILL:Survival|OUTPUTORDER:99|
+SKILL:Swim|OUTPUTORDER:100|
+SKILL:Acrobatics (Jump)|OUTPUTORDER:2|
+SKILL:Spellcraft|OUTPUTORDER:54|CLASSBOUGHT:[CLASS:Wizard|RANKS:2.0|COST:1|CLASSSKILL:Y]
+SKILL:Knowledge (Local)|OUTPUTORDER:29|
+SKILL:Knowledge (Dungeoneering)|OUTPUTORDER:25|
+SKILL:Knowledge (Geography)|OUTPUTORDER:26|CLASSBOUGHT:[CLASS:Wizard|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Knowledge (History)|OUTPUTORDER:27|CLASSBOUGHT:[CLASS:Wizard|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Knowledge (Religion)|OUTPUTORDER:42|CLASSBOUGHT:[CLASS:Wizard|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Knowledge (Planes)|OUTPUTORDER:39|CLASSBOUGHT:[CLASS:Wizard|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Knowledge (Nobility)|OUTPUTORDER:38|CLASSBOUGHT:[CLASS:Wizard|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Knowledge (Nature)|OUTPUTORDER:32|CLASSBOUGHT:[CLASS:Wizard|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Linguistics|OUTPUTORDER:44|CLASSBOUGHT:[CLASS:Wizard|RANKS:1.0|COST:1|CLASSSKILL:Y]|ASSOCIATEDDATA:Dwarven
+SKILL:Acrobatics (Jump/Underground)|OUTPUTORDER:3|
+SKILL:Acrobatics (Move through threatened squares)|OUTPUTORDER:4|
+SKILL:Acrobatics (Move Through)|OUTPUTORDER:5|
+SKILL:Acrobatics (Swing)|OUTPUTORDER:6|
+SKILL:Acrobatics (Underground)|OUTPUTORDER:7|
+SKILL:Acrobatics (Uneven Ground)|OUTPUTORDER:8|
+SKILL:Climb (Narrow Surfaces)|OUTPUTORDER:12|
+SKILL:Climb (Rope)|OUTPUTORDER:13|
+SKILL:Climb (Underground)|OUTPUTORDER:14|
+SKILL:Disable Device|OUTPUTORDER:17|
+SKILL:Escape Artist (Escape bonds/grapple)|OUTPUTORDER:20|
+SKILL:Knowledge (Arcana)|OUTPUTORDER:24|
+SKILL:Knowledge (History/Dwarves)|OUTPUTORDER:28|
+SKILL:Knowledge (Local/Art &amp; music)|OUTPUTORDER:30|
+SKILL:Knowledge (Local/ID monster)|OUTPUTORDER:31|
+SKILL:Knowledge (Nature/Bird)|OUTPUTORDER:33|
+SKILL:Knowledge (Nature/Dog)|OUTPUTORDER:34|
+SKILL:Knowledge (Nature/Horse)|OUTPUTORDER:35|
+SKILL:Knowledge (Nature/ID monster)|OUTPUTORDER:36|
+SKILL:Knowledge (Nature/Small Cat)|OUTPUTORDER:37|
+SKILL:Knowledge (Planes/ID demon)|OUTPUTORDER:40|
+SKILL:Knowledge (Planes/ID monster)|OUTPUTORDER:41|
+SKILL:Knowledge (Religion/ID monster)|OUTPUTORDER:43|
+SKILL:Linguistics (Create forgeries)|OUTPUTORDER:45|
+SKILL:Linguistics (Forgery)|OUTPUTORDER:46|
+SKILL:Linguistics (Identify Forgery)|OUTPUTORDER:47|
+SKILL:Ride (Samurai Mount)|OUTPUTORDER:51|
+SKILL:Sleight of Hand|OUTPUTORDER:53|
+SKILL:Spellcraft (Cast Defensively)|OUTPUTORDER:55|
+SKILL:Spellcraft (Identify Curse or Emotion)|OUTPUTORDER:56|
+SKILL:Spellcraft (Identify Enchantment)|OUTPUTORDER:57|
+SKILL:Spellcraft (Identify Magic Auras and Items)|OUTPUTORDER:58|
+SKILL:Spellcraft (Identify magic item)|OUTPUTORDER:59|
+SKILL:Stealth (Darkness or smoke)|OUTPUTORDER:61|
+SKILL:Stealth (In ambush)|OUTPUTORDER:62|
+SKILL:Stealth (In bright light)|OUTPUTORDER:63|
+SKILL:Stealth (In caverns)|OUTPUTORDER:64|
+SKILL:Stealth (In darkness)|OUTPUTORDER:65|
+SKILL:Stealth (In deserts)|OUTPUTORDER:66|
+SKILL:Stealth (In dim light)|OUTPUTORDER:67|
+SKILL:Stealth (In forests)|OUTPUTORDER:68|
+SKILL:Stealth (In hilly or rocky areas)|OUTPUTORDER:69|
+SKILL:Stealth (In lair)|OUTPUTORDER:70|
+SKILL:Stealth (In marshes)|OUTPUTORDER:71|
+SKILL:Stealth (In metal or stony areas)|OUTPUTORDER:72|
+SKILL:Stealth (In mud)|OUTPUTORDER:73|
+SKILL:Stealth (In rocky areas)|OUTPUTORDER:74|
+SKILL:Stealth (In rocky terrain)|OUTPUTORDER:75|
+SKILL:Stealth (In sand)|OUTPUTORDER:76|
+SKILL:Stealth (In scrubland or brush)|OUTPUTORDER:77|
+SKILL:Stealth (In shadowy conditions)|OUTPUTORDER:78|
+SKILL:Stealth (In shallow water)|OUTPUTORDER:79|
+SKILL:Stealth (In snow)|OUTPUTORDER:80|
+SKILL:Stealth (In stony environs)|OUTPUTORDER:81|
+SKILL:Stealth (In stony or icy areas)|OUTPUTORDER:82|
+SKILL:Stealth (In swamps)|OUTPUTORDER:83|
+SKILL:Stealth (In tall grass)|OUTPUTORDER:84|
+SKILL:Stealth (In thick vegetation)|OUTPUTORDER:85|
+SKILL:Stealth (In undergrowth)|OUTPUTORDER:86|
+SKILL:Stealth (In vegetation)|OUTPUTORDER:87|
+SKILL:Stealth (In water)|OUTPUTORDER:88|
+SKILL:Stealth (In webs)|OUTPUTORDER:89|
+SKILL:Stealth (Load Crossbow)|OUTPUTORDER:90|
+SKILL:Stealth (Poison Ammo)|OUTPUTORDER:91|
+SKILL:Stealth (Sniping)|OUTPUTORDER:92|
+SKILL:Stealth (Stationary for at least one round)|OUTPUTORDER:93|
+SKILL:Stealth (Underground)|OUTPUTORDER:94|
+SKILL:Stealth (Underwater)|OUTPUTORDER:95|
+SKILL:Stealth (Webs)|OUTPUTORDER:96|
+SKILL:Stealth (When moving)|OUTPUTORDER:97|
+SKILL:Stealth (When submerged)|OUTPUTORDER:98|
+
+# Character Languages
+LANGUAGE:Common|LANGUAGE:Goblin|LANGUAGE:Elven|LANGUAGE:Draconic|LANGUAGE:Dwarven|LANGUAGE:Varisian
+
+# Character Feats
+FEATPOOL:-2.0
+
+# Character Abilities
+ABILITY:Ability Bonus|TYPE:NORMAL|CATEGORY:Special Ability|KEY:+2 Intelligence|TYPE:AbilityBonus
+USERPOOL:Ability Bonus|POOLPOINTS:0.0
+ABILITY:Arcane Bond|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Arcane Bond ~ Bonded Object|TYPE:WizardClassAbility.ArcaneBond.SpecialQuality|DESC:Objects that are the subject of an arcane bond must fall into one of the following categories&colon; amulet, ring, staff, wand, or weapon. These objects are always masterwork quality. Weapons acquired at 1st level are not made of any special material. If the object is an amulet or ring, it must be worn to have effect, while staves, wands, and weapons must be held in one hand. When attempting to cast a spell without your bonded object worn or in hand, you must make a concentration check or lose the spell (DC 20 + the spell's level). A ring or amulet occupies the ring or neck slot accordingly.
+USERPOOL:Arcane Bond|POOLPOINTS:0.0
+ABILITY:Arcane Opposition School|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Abjuration Opposition School|TYPE:WizardClassAbility.SpecialQuality.ClassSpecialization.ArcaneOppositionSchool|DESC:You have chosen abjuration spells as an opposition school.
+ABILITY:Arcane Opposition School|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Necromancy Opposition School|TYPE:WizardClassAbility.SpecialQuality.ClassSpecialization.ArcaneOppositionSchool|DESC:You have chosen necromancy spells as an opposition school.
+USERPOOL:Arcane Opposition School|POOLPOINTS:0.0
+ABILITY:Favored Class|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Wizard|TYPE:FavoredClass
+USERPOOL:Favored Class|POOLPOINTS:0.0
+ABILITY:Favored Class Bonus|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Favored Class Bonus ~ Skill Rank|APPLIEDTO:Knowledge (Local),Knowledge (Arcana)|TYPE:FavoredClassBonus
+USERPOOL:Favored Class Bonus|POOLPOINTS:0.0
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Spell Focus|APPLIEDTO:Illusion|TYPE:General.ProteanBloodline.ArcaneBloodline.UndeadBloodline|DESC:Any spells you cast of your chosen school of magic are more difficult to resist.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Improved Initiative|TYPE:Combat.ImperiousBloodline.KoboldBloodline.SharkShamanBonus.DjinniBloodline.EfreetiBloodline.MaridBloodline.ShaitanBloodline.AberrantBloodline.ArcaneBloodline.DraconicBloodline.ElementalBloodline.FeyBloodline|DESC:Your quick reflexes allow you to react quickly to danger.
+USERPOOL:FEAT|POOLPOINTS:0.0
+ABILITY:Human Ethnicity|TYPE:NORMAL|CATEGORY:Background|KEY:Varisian|TYPE:HumanEthnicity
+USERPOOL:Human Ethnicity|POOLPOINTS:0.0
+ABILITY:Region of Origin|TYPE:NORMAL|CATEGORY:Background|KEY:Varisia|TYPE:Region|DESC:Wild Frontier Region
+USERPOOL:Region of Origin|POOLPOINTS:0.0
+ABILITY:*LANGBONUS|TYPE:VIRTUAL|CATEGORY:*LANGBONUS|KEY:*LANGBONUS|APPLIEDTO:Goblin,Draconic,Elven|TYPE:
+USERPOOL:*LANGBONUS|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Club|WEAPON:Crossbow (Heavy)|WEAPON:Crossbow (Light)|WEAPON:Dagger|WEAPON:Quarterstaff|WEAPON:Spells (Ray)|WEAPON:Spells (Touch)|WEAPON:Splash Weapon|WEAPON:Unarmed Strike]
+
+# Character Equipment
+MONEY:893.009999999999990905052982270717620849609375
+EQUIPNAME:Alchemist's Fire (Flask)|OUTPUTORDER:6|COST:20|WT:1.0|QUANTITY:3.0
+EQUIPNAME:Artisan's Tools (Leather)|OUTPUTORDER:3|COST:5|WT:5.0|QUANTITY:1.0
+EQUIPNAME:Waterskin|OUTPUTORDER:20|COST:1|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Bullets (Sling/10)|OUTPUTORDER:4|COST:0.1|WT:5.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Bullets (Sling/10)|DATA:NAME=Bullets (Sling/10)$EQMOD=STEEL]
+EQUIPNAME:Torch|OUTPUTORDER:19|COST:0.01|WT:1.0|QUANTITY:5.0
+EQUIPNAME:Shovel or Spade|OUTPUTORDER:15|COST:2|WT:8.0|QUANTITY:1.0
+EQUIPNAME:Whetstone|OUTPUTORDER:21|COST:0.02|WT:1.0|QUANTITY:1.0
+EQUIPNAME:Bedroll|OUTPUTORDER:7|COST:0.1|WT:5.0|QUANTITY:1.0
+EQUIPNAME:Thunderstone|OUTPUTORDER:18|COST:30|WT:1.0|QUANTITY:1.0
+EQUIPNAME:Spellbook (Wizard's/Blank)|OUTPUTORDER:9|COST:15|WT:3.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Spellbook (Wizard's/Blank)|DATA:NAME=Spellbook (Wizard's/Blank)]
+EQUIPNAME:Crowbar|OUTPUTORDER:5|COST:2|WT:5.0|QUANTITY:1.0
+EQUIPNAME:Grappling Hook|OUTPUTORDER:12|COST:1|WT:4.0|QUANTITY:1.0
+EQUIPNAME:Blanket (Winter)|OUTPUTORDER:8|COST:0.5|WT:3.0|QUANTITY:1.0
+EQUIPNAME:Flint and Steel|OUTPUTORDER:11|COST:1|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Dagger|OUTPUTORDER:1|COST:2.0|WT:1.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Dagger|DATA:NAME=Dagger$EQMOD=STEEL]
+EQUIPNAME:Sling|OUTPUTORDER:2|COST:0.0|WT:0.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Sling|DATA:NAME=Sling$EQMOD=LEATHER]
+EQUIPNAME:Oil (1 Pint Flask)|OUTPUTORDER:13|COST:0.1|WT:1.0|QUANTITY:3.0
+EQUIPNAME:String (50 ft.)|OUTPUTORDER:17|COST:0.01|WT:0.5|QUANTITY:1.0
+EQUIPNAME:Fishhook|OUTPUTORDER:10|COST:0.1|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Rope (Hemp/50 ft)|OUTPUTORDER:14|COST:1|WT:10.0|QUANTITY:1.0
+EQUIPNAME:Signal Whistle|OUTPUTORDER:16|COST:0.8|WT:0.0|QUANTITY:1.0
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Carried|ID:0.1.02|VALUE:Alchemist's Fire (Flask)|QUANTITY:3.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.03|VALUE:Artisan's Tools (Leather)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Carried|ID:0.1.04|VALUE:Bedroll|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Carried|ID:0.1.05|VALUE:Blanket (Winter)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.07|VALUE:Bullets (Sling/10)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.08|VALUE:Crowbar|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Primary Hand|ID:0.1.09|VALUE:Dagger|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Carried|ID:0.1.1|VALUE:Spellbook (Wizard's/Blank)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Carried|ID:0.1.10|VALUE:Fishhook|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Carried|ID:0.1.11|VALUE:Flint and Steel|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Carried|ID:0.1.12|VALUE:Grappling Hook|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Carried|ID:0.1.13|VALUE:Oil (1 Pint Flask)|QUANTITY:3.0|USETEMPMODS:Y
+EQUIPSET:Carried|ID:0.1.14|VALUE:Rope (Hemp/50 ft)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Carried|ID:0.1.15|VALUE:Shovel or Spade|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Carried|ID:0.1.16|VALUE:Signal Whistle|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Carried|ID:0.1.17|VALUE:String (50 ft.)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Carried|ID:0.1.18|VALUE:Thunderstone|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Carried|ID:0.1.19|VALUE:Torch|QUANTITY:5.0|USETEMPMODS:Y
+EQUIPSET:Carried|ID:0.1.20|VALUE:Waterskin|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Carried|ID:0.1.21|VALUE:Whetstone|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Secondary Hand|ID:0.1.22|VALUE:Sling|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+
+# Character Spells Information
+SPELLBOOK:Spellbook (Wizard's/Blank)|TYPE:3
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:
+
+# Kits
+KIT:Wizard Spellbook
+
+# Character Master/Follower
+
+# Character Notes Tab
+
+# Age Set Selections
+AGESET:1:0:0:0:0:0:0:0:0:0
+
+# Campaign History
+
+# Suppressed Biography Fields
+SUPPRESSBIOFIELDS:
+

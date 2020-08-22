@@ -1,0 +1,184 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Advanced Player's Guide|CAMPAIGN:Ultimate Combat|CAMPAIGN:Pathfinder RPG Core Supplements|CAMPAIGN:Pathfinder Society
+VERSION:6.02.1
+ROLLMETHOD:2|EXPRESSION:Aubs DS
+PURCHASEPOINTS:Y|TYPE:Aubs DS
+CHARACTERTYPE:PC
+PREVIEWSHEET:Standard.htm
+POOLPOINTS:22
+POOLPOINTSAVAIL:22
+GAMEMODE:Pathfinder_RPG
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+SKILLFILTER:2
+IGNORECOST:N
+ALLOWDEBT:N
+AUTORESIZEGEAR:Y
+
+# Character Bio
+CHARACTERNAME:Jareen
+TABNAME:
+PLAYERNAME:
+HEIGHT:71
+WEIGHT:185
+AGE:29
+GENDER:Male
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:
+HAIRCOLOR:
+HAIRSTYLE:
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:8
+STAT:DEX|SCORE:11
+STAT:CON|SCORE:13
+STAT:INT|SCORE:16
+STAT:WIS|SCORE:13
+STAT:CHA|SCORE:16
+RACE:Human
+
+# Character Class(es)
+CLASS:Wizard|SUBCLASS:Illusionist|LEVEL:5|SKILLPOOL:0
+CLASSABILITIESLEVEL:Wizard=1|HITPOINTS:6|SPECIALTIES:[SPECIALTY:Illusion]|SKILLSGAINED:7|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Wizard=2|HITPOINTS:5|SKILLSGAINED:7|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Wizard=3|HITPOINTS:4|SKILLSGAINED:7|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Wizard=4|HITPOINTS:3|PRESTAT:INT=1|SKILLSGAINED:7|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Wizard=5|HITPOINTS:5|SKILLSGAINED:7|SKILLSREMAINING:0
+
+# Character Experience
+EXPERIENCE:15000
+EXPERIENCETABLE:Medium
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:Creature with Class Levels]
+TEMPLATESAPPLIED:[NAME:Human Ethnicity]
+
+# Character Region
+REGION:None
+
+# Character Skills
+SKILL:Acrobatics|OUTPUTORDER:1|
+SKILL:Appraise|OUTPUTORDER:2|
+SKILL:Bluff|OUTPUTORDER:3|CLASSBOUGHT:[CLASS:Wizard|RANKS:2.0|COST:1|CLASSSKILL:N]
+SKILL:Climb|OUTPUTORDER:4|
+SKILL:Craft (Untrained)|OUTPUTORDER:5|
+SKILL:Diplomacy|OUTPUTORDER:6|CLASSBOUGHT:[CLASS:Wizard|RANKS:5.0|COST:1|CLASSSKILL:N]
+SKILL:Disguise|OUTPUTORDER:7|
+SKILL:Escape Artist|OUTPUTORDER:8|
+SKILL:Fly|OUTPUTORDER:9|
+SKILL:Heal|OUTPUTORDER:10|CLASSBOUGHT:[CLASS:Wizard|RANKS:2.0|COST:1|CLASSSKILL:N]
+SKILL:Intimidate|OUTPUTORDER:11|CLASSBOUGHT:[CLASS:Wizard|RANKS:2.0|COST:1|CLASSSKILL:N]
+SKILL:Perception|OUTPUTORDER:15|
+SKILL:Perform (Untrained)|OUTPUTORDER:16|
+SKILL:Ride|OUTPUTORDER:17|
+SKILL:Sense Motive|OUTPUTORDER:18|
+SKILL:Stealth|OUTPUTORDER:20|CLASSBOUGHT:[CLASS:Wizard|RANKS:2.0|COST:1|CLASSSKILL:N]
+SKILL:Survival|OUTPUTORDER:21|CLASSBOUGHT:[CLASS:Wizard|RANKS:5.0|COST:1|CLASSSKILL:N]
+SKILL:Swim|OUTPUTORDER:22|
+SKILL:Spellcraft|OUTPUTORDER:19|CLASSBOUGHT:[CLASS:Wizard|RANKS:5.0|COST:1|CLASSSKILL:Y]
+SKILL:Knowledge (History)|OUTPUTORDER:13|CLASSBOUGHT:[CLASS:Wizard|RANKS:5.0|COST:1|CLASSSKILL:Y]
+SKILL:Knowledge (Religion)|OUTPUTORDER:14|CLASSBOUGHT:[CLASS:Wizard|RANKS:5.0|COST:1|CLASSSKILL:Y]
+SKILL:Knowledge (Dungeoneering)|OUTPUTORDER:12|CLASSBOUGHT:[CLASS:Wizard|RANKS:2.0|COST:1|CLASSSKILL:Y]
+
+# Character Languages
+LANGUAGE:Common
+
+# Character Feats
+FEATPOOL:-4.0
+
+# Character Abilities
+ABILITY:Ability Bonus|TYPE:NORMAL|CATEGORY:Special Ability|KEY:+2 Intelligence|TYPE:AbilityBonus
+USERPOOL:Ability Bonus|POOLPOINTS:0.0
+ABILITY:Arcane Bond|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Arcane Bond ~ Bonded Object|TYPE:WizardClassAbility.ArcaneBond.SpecialQuality|DESC:Objects that are the subject of an arcane bond must fall into one of the following categories&colon; amulet, ring, staff, wand, or weapon. These objects are always masterwork quality. Weapons acquired at 1st level are not made of any special material. If the object is an amulet or ring, it must be worn to have effect, while staves, wands, and weapons must be held in one hand. When attempting to cast a spell without your bonded object worn or in hand, you must make a concentration check or lose the spell (DC 20 + the spell's level). A ring or amulet occupies the ring or neck slot accordingly.
+USERPOOL:Arcane Bond|POOLPOINTS:0.0
+ABILITY:Arcane Opposition School|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Divination Opposition School|TYPE:WizardClassAbility.SpecialQuality.ClassSpecialization.ArcaneOppositionSchool|DESC:You have chosen divination spells as an opposition school.
+ABILITY:Arcane Opposition School|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Necromancy Opposition School|TYPE:WizardClassAbility.SpecialQuality.ClassSpecialization.ArcaneOppositionSchool|DESC:You have chosen necromancy spells as an opposition school.
+USERPOOL:Arcane Opposition School|POOLPOINTS:0.0
+ABILITY:Favored Class|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Wizard|TYPE:FavoredClass
+USERPOOL:Favored Class|POOLPOINTS:0.0
+ABILITY:Favored Class Bonus|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Favored Class Bonus ~ Hit Point|APPLIEDTO:,|TYPE:FavoredClassBonus
+ABILITY:Favored Class Bonus|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Favored Class Bonus ~ Wizard Spell|APPLIEDTO:,,|TYPE:SpecialQuality.FavoredClassBonus.FavoredClassWizard|DESC:Add one spell from the wizard spell list to the wizard's spellbook. This spell must be at least one level below the highest spell level he can cast.
+USERPOOL:Favored Class Bonus|POOLPOINTS:0.0
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Combat Casting|TYPE:General.SerpentineBloodline.AberrantBloodline.ArcaneBloodline.UndeadBloodline.KoboldBloodline.DragonShamanBonus.AccursedBloodline|DESC:You are adept at spellcasting when threatened or distracted.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Toughness|TYPE:General.AquaticBloodline.BorealBloodline.ProteanBloodline.StarsoulBloodline.VerdantBloodline.DruidShamanBear.DraconicBloodline.UndeadBloodline.DaemonBloodline.OrcBloodline|DESC:You have enhanced physical stamina.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Elemental Focus|APPLIEDTO:Cold|TYPE:General|DESC:Your spells of a certain element are more difficult to resist.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Empower Spell|TYPE:Metamagic.BorealBloodline.AbyssalBloodline.ElementalBloodline.DjinniBloodline.EfreetiBloodline.MaridBloodline.RakshasaBloodline.ShaitanBloodline|DESC:You can increase the power of your spells, causing them to deal more damage.
+USERPOOL:FEAT|POOLPOINTS:0.0
+ABILITY:Human Ethnicity|TYPE:NORMAL|CATEGORY:Background|KEY:Unknown ~ HumanEthnicity|TYPE:HumanEthnicity
+USERPOOL:Human Ethnicity|POOLPOINTS:0.0
+ABILITY:Region of Origin|TYPE:NORMAL|CATEGORY:Background|KEY:Unknown ~ Region|TYPE:Region
+USERPOOL:Region of Origin|POOLPOINTS:0.0
+ABILITY:Spell Focus Replacement|TYPE:NORMAL|CATEGORY:FEAT|KEY:Spell Focus|APPLIEDTO:Illusion|TYPE:General.ProteanBloodline.ArcaneBloodline.UndeadBloodline.FocusReplacement|DESC:Any spells you cast of your chosen school of magic are more difficult to resist.
+USERPOOL:Spell Focus Replacement|POOLPOINTS:0.0
+ABILITY:Traits|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Desert Child ~ Trait|TYPE:Trait.RegionalTrait|DESC:You were born and raised in rocky deserts. You are accustomed to high temperatures, and gain a +4 trait bonus on any saving throws made to resist the effects of being in hot conditions and a +1 trait bonus on all saving throws against fire effects.
+ABILITY:Traits|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Child of the Temple ~ Trait|APPLIEDTO:Knowledge (Religion)|TYPE:Trait.BasicTrait.FaithTrait|DESC:You have long served at a temple in a city, and not only did you pick up on many of the nobility's customs, you spent much time in the temple libraries studying your faith.
+USERPOOL:Traits|POOLPOINTS:0.0
+ABILITY:Wizard Bonus Feat|TYPE:NORMAL|CATEGORY:FEAT|KEY:Dazing Spell|TYPE:Metamagic|DESC:You can daze creatures with the power of your spells.
+USERPOOL:Wizard Bonus Feat|POOLPOINTS:0.0
+ABILITY:Wizard Focused School|TYPE:NORMAL|CATEGORY:Archetype|KEY:Wizard Archetype ~ Phantasm School|TYPE:Archetype.WizardArchetype.WizardFocusedSchool.WizardIllusion.WizardBlindingRay.WizardInvisibilityField
+USERPOOL:Wizard Focused School|POOLPOINTS:0.0
+ABILITY:*LANGBONUS|TYPE:VIRTUAL|CATEGORY:*LANGBONUS|KEY:*LANGBONUS|APPLIEDTO:|TYPE:
+USERPOOL:*LANGBONUS|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Club|WEAPON:Crossbow (Heavy)|WEAPON:Crossbow (Light)|WEAPON:Dagger|WEAPON:Quarterstaff|WEAPON:Spells (Ray)|WEAPON:Spells (Touch)|WEAPON:Splash Weapon|WEAPON:Unarmed Strike]
+
+# Character Equipment
+MONEY:0
+EQUIPNAME:Spellbook (Wizard's/Blank)|OUTPUTORDER:0|COST:15|WT:3.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Spellbook (Wizard's/Blank)|DATA:NAME=Spellbook (Wizard's/Blank)]
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Carried|ID:0.1.1|VALUE:Spellbook (Wizard's/Blank)|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+
+# Character Spells Information
+SPELLBOOK:Spellbook (Wizard's/Blank)|TYPE:3
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:
+
+# Kits
+KIT:Wizard Spellbook
+
+# Character Master/Follower
+
+# Character Notes Tab
+
+# Age Set Selections
+AGESET:1:1:1:0:0:0:0:0:0:0
+
+# Campaign History
+
+# Suppressed Biography Fields
+SUPPRESSBIOFIELDS:
+
