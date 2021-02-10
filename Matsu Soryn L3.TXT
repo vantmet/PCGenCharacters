@@ -7,7 +7,7 @@ _________________________________________________
 DEFENSE
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 [b]EAC[/b] 14; [b]KAC[/b] 15
-[b]SP[/b] 27 [b]HP[/b] 25 [b]RP[/b] 4
+[b]SP[/b] 27{27} [b]HP[/b] 25{25} [b]RP[/b] 3{4}
 [b]Fort[/b] +4, [b]Ref[/b] +4, [b]Will[/b] +2
 , +4 bonus to Fortitude saving throws to avoid taking damage from hot or cold environments, to withstand the harmful effects of thick and thin atmospheres, to avoid choking when breathing in heavy smoke, and to avoid fatigue caused by sleep deprivation., +4 bonus to Fortitude saving throws to avoid taking damage from hot or cold environments, to withstand the harmful effects of thick and thin atmospheres, to avoid choking when breathing in heavy smoke, and to avoid fatigue caused by sleep deprivation.
 _________________________________________________
@@ -15,7 +15,7 @@ OFFENSE
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 [b]Speed[/b] Walk 20'
 [b]Melee[/b] baton, tactical +6 (1d4+2 , critical -; Analog.operative)
-[b]Ranged[/b] reaction cannon, light +6 (1d10+3, critical -; Penetrating)
+[b]Ranged[/b] reaction cannon, light +6 (1d10+4, critical -; Penetrating)
 [b]Ranged[/b] laser pistol, azimuth +6 (1d4+1, critical Burn 1d4; -)
 [b]Ranged[/b] frag grenade i +4 (1d6, critical ; DC 13, Explode (1d6 P, 15 ft.))
 [b]Ranged[/b] holy water grenade i +4 (, critical ; Explode (2d6 B, holy water, 20 ft.))
